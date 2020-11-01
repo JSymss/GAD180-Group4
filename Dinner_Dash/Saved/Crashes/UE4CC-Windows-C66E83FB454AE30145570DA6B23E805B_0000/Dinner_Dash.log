@@ -1,0 +1,1492 @@
+﻿Log file open, 11/02/20 00:59:27
+LogInit: Display: Running engine for game: Dinner_Dash
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.693235
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 2080 SUPER
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.01-13.59.28:039][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.01-13.59.28:039][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Engine.ini]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Engine.ini]
+[2020.11.01-13.59.28:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Engine.ini]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Engine.ini]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.01-13.59.28:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Engine.ini]
+[2020.11.01-13.59.28:040][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Engine.ini]
+[2020.11.01-13.59.28:046][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.01-13.59.28:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.01-13.59.28:047][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.01-13.59.28:048][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.01-13.59.28:048][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.01-13.59.28:049][  0]LogHAL: Display: Platform has ~ 32 GB [34286559232 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.01-13.59.28:049][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.01-13.59.28:050][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.01-13.59.28:050][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Scalability.ini]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.01-13.59.28:051][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Config/Windows/Engine.ini]
+[2020.11.01-13.59.28:052][  0]LogInit: Computer: DESKTOP-BGDRVV7
+[2020.11.01-13.59.28:052][  0]LogInit: User: Jackson
+[2020.11.01-13.59.28:052][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.11.01-13.59.28:052][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.01-13.59.28:052][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.11.01-13.59.28:052][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.01-13.59.28:052][  0]LogMemory: Process Physical Memory: 115.07 MB used, 115.07 MB peak
+[2020.11.01-13.59.28:052][  0]LogMemory: Process Virtual Memory: 96.93 MB used, 96.93 MB peak
+[2020.11.01-13.59.28:052][  0]LogMemory: Physical Memory: 5710.15 MB used,  26988.06 MB free, 32698.21 MB total
+[2020.11.01-13.59.28:052][  0]LogMemory: Virtual Memory: 5164.83 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2020.11.01-13.59.28:057][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.01-13.59.28:195][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.01-13.59.28:198][  0]LogInit: Using OS detected language (en-US).
+[2020.11.01-13.59.28:198][  0]LogInit: Using OS detected locale (en-AU).
+[2020.11.01-13.59.28:212][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.01-13.59.28:409][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.01-13.59.28:454][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.01-13.59.28:454][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.01-13.59.28:688][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.01-13.59.28:688][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.01-13.59.28:688][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.01-13.59.28:688][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.01-13.59.28:737][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 SUPER' (Feature Level 11_0)
+[2020.11.01-13.59.28:737][  0]LogD3D11RHI:       8010/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.11.01-13.59.28:738][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.01-13.59.28:738][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.01-13.59.28:739][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.01-13.59.28:744][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.01-13.59.28:744][  0]LogD3D11RHI:     GPU DeviceId: 0x1e81 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.01-13.59.28:744][  0]LogWindows: EnumDisplayDevices:
+[2020.11.01-13.59.28:745][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:1)
+[2020.11.01-13.59.28:745][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 SUPER' (P:1 D:1)
+[2020.11.01-13.59.28:745][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.11.01-13.59.28:745][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.11.01-13.59.28:745][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.11.01-13.59.28:745][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 SUPER
+[2020.11.01-13.59.28:745][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2020.11.01-13.59.28:745][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2020.11.01-13.59.28:745][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.11.01-13.59.28:781][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.01-13.59.28:783][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.11.01-13.59.28:783][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.01-13.59.28:783][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.01-13.59.28:818][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.11.01-13.59.29:081][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.01-13.59.29:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.01-13.59.29:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.01-13.59.29:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.01-13.59.29:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.01-13.59.29:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.01-13.59.29:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.01-13.59.29:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.01-13.59.29:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.01-13.59.29:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.01-13.59.29:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.01-13.59.29:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.01-13.59.29:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.01-13.59.29:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.01-13.59.29:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.01-13.59.29:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.01-13.59.29:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.01-13.59.29:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.01-13.59.29:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.01-13.59.29:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.01-13.59.29:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.01-13.59.29:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.01-13.59.29:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.01-13.59.29:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.01-13.59.29:248][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.01-13.59.29:257][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.01-13.59.29:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.01-13.59.29:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.01-13.59.29:276][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.01-13.59.29:288][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.01-13.59.29:383][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (D:/GitKraken/GAD180-Group4/Dinner_Dash/Intermediate/Shaders/WorkingDirectory/17400/).
+[2020.11.01-13.59.29:383][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jackson/AppData/Local/Temp/UnrealShaderWorkingDir/A94184E54799B28511FB2FB068BD5F3E/'.
+[2020.11.01-13.59.29:384][  0]LogXGEController: Cleaning working directory: C:/Users/Jackson/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.01-13.59.29:385][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.01-13.59.29:385][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.01-13.59.29:385][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.01-13.59.30:205][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.01-13.59.30:262][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/Jackson/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.01-13.59.30:262][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jackson/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.01-13.59.30:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GitKraken/GAD180-Group4/Dinner_Dash/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.01-13.59.30:262][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.01-13.59.30:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GitKraken/GAD180-Group4/Dinner_Dash/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.01-13.59.30:262][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.01-13.59.30:275][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.01-13.59.30:275][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.01-13.59.30:275][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.01-13.59.30:276][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jackson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.01-13.59.30:276][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.01-13.59.30:276][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.01-13.59.30:325][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.01-13.59.30:328][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.01-13.59.30:357][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2020.11.01-13.59.30:661][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.01-13.59.30:827][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.01-13.59.30:827][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.01-13.59.30:827][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.01-13.59.30:827][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.01-13.59.30:828][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.01-13.59.30:860][  0]LogNetVersion: Dinner_Dash 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3258219443)
+[2020.11.01-13.59.31:407][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001AC59846AC0), frame # 0
+[2020.11.01-13.59.31:407][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AC597D7740), frame # 0
+[2020.11.01-13.59.31:411][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AC5985CA00), frame # 0
+[2020.11.01-13.59.31:456][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.024415 seconds
+[2020.11.01-13.59.31:460][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.01-13.59.31:460][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.01-13.59.31:460][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.01-13.59.32:080][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.01-13.59.32:087][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.01-13.59.32:210][  0]SourceControl: Source control is disabled
+[2020.11.01-13.59.32:211][  0]SourceControl: Source control is disabled
+[2020.11.01-13.59.32:221][  0]SourceControl: Source control is disabled
+[2020.11.01-13.59.32:227][  0]SourceControl: Source control is disabled
+[2020.11.01-13.59.32:238][  0]SourceControl: Source control is disabled
+[2020.11.01-13.59.32:623][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.01-13.59.32:647][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.01-13.59.32:647][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.01-13.59.32:709][  0]LogOcInput: OculusInput pre-init called
+[2020.11.01-13.59.32:724][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.01-13.59.32:724][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.01-13.59.32:837][  0]LogEngine: Initializing Engine...
+[2020.11.01-13.59.32:839][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.01-13.59.32:839][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.01-13.59.32:842][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.11.01-13.59.32:942][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.01-13.59.32:973][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.01-13.59.32:973][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AC60549C00), frame # 0
+[2020.11.01-13.59.32:973][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AC60575940), frame # 0
+[2020.11.01-13.59.32:983][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-13.59.32:983][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-13.59.32:983][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-13.59.32:983][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-13.59.32:983][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-13.59.32:983][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-13.59.32:983][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-13.59.32:983][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-13.59.32:985][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-13.59.32:985][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-13.59.33:010][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-13.59.33:010][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-13.59.33:066][  0]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-13.59.33:068][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-13.59.33:071][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-13.59.33:071][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-13.59.33:072][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-13.59.33:073][  0]LogInit: FAudioDevice initialized.
+[2020.11.01-13.59.33:074][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.01-13.59.33:110][  0]LogDerivedDataCache: Saved boot cache 0.04s 75MB C:/Users/Jackson/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.01-13.59.33:110][  0]LogInit: Texture streaming: Enabled
+[2020.11.01-13.59.33:130][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.01-13.59.33:130][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.01-13.59.33:132][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.01-13.59.33:176][  0]LogInit: Transaction tracking system initialized
+[2020.11.01-13.59.33:215][  0]BlueprintLog: New page: Editor Load
+[2020.11.01-13.59.33:363][  0]LocalizationService: Localization service is disabled
+[2020.11.01-13.59.33:584][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.01-13.59.33:584][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.01-13.59.33:774][  0]LogFileCache: Scanning file cache for directory 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/' took 0.02s
+[2020.11.01-13.59.33:949][  0]SourceControl: Source control is disabled
+[2020.11.01-13.59.33:950][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.405
+[2020.11.01-13.59.33:951][  0]Cmd: MAP LOAD FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.01-13.59.33:951][  0]LogEditorServer: Warning: Can't find file 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.11.01-13.59.33:951][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.01-13.59.33:953][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.974ms to complete.
+[2020.11.01-13.59.33:953][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.002
+[2020.11.01-13.59.33:974][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.429
+[2020.11.01-13.59.34:096][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-13.59.34:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-13.59.34:108][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-13.59.34:113][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-13.59.34:128][  0]LogCollectionManager: Loaded 0 collections in 0.001823 seconds
+[2020.11.01-13.59.34:156][  0]LogFileCache: Scanning file cache for directory 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Collections/' took 0.00s
+[2020.11.01-13.59.34:156][  0]LogFileCache: Scanning file cache for directory 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/Developers/Jackson/Collections/' took 0.00s
+[2020.11.01-13.59.34:156][  0]LogFileCache: Scanning file cache for directory 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/Collections/' took 0.00s
+[2020.11.01-13.59.34:156][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 3427 classes and 821 folders.
+[2020.11.01-13.59.34:163][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.01-13.59.34:288][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.01-13.59.34:292][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.11.01-13.59.34:428][  0]LogSlate: Took 0.000573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.01-13.59.34:430][  0]LogSlate: Took 0.000622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.01-13.59.34:436][  0]LogSlate: Took 0.000486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.01-13.59.34:508][  0]LogRenderer: Reallocating scene render targets to support 1616x836 Format 10 NumSamples 1 (Frame:1).
+[2020.11.01-13.59.34:975][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.01-13.59.34:975][  0]LogLoad: (Engine Initialization) Total time: 10.43 seconds
+[2020.11.01-13.59.34:975][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.01-13.59.35:035][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.01-13.59.35:071][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/' took 0.08s
+[2020.11.01-13.59.35:080][  1]LogAssetRegistry: Asset discovery search completed in 4.7238 seconds
+[2020.11.01-13.59.35:083][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.11.01-13.59.35:999][109]LogSlate: Took 0.000622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.01-14.14.11:243][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Pot.Pot
+[2020.11.01-14.14.11:455][521]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.11.01-14.14.12:213][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Cupboard.Cupboard
+[2020.11.01-14.14.12:506][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Ingredient.Ingredient
+[2020.11.01-14.14.12:845][521]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameWin.GameWin
+[2020.11.01-14.14.13:192][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.11.01-14.14.13:782][521]LogSlate: Took 0.000657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.01-14.14.13:880][522]LogSlate: Took 0.000621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.01-14.14.16:934][858]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.14.16:934][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.14.16:939][858]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.14.16:939][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.14.17:680][925]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.14.17:680][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.14.18:072][952]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.01-14.14.18:072][952]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.14.18:072][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.14.21:012][272]LogSlate: Window 'Pot' being destroyed
+[2020.11.01-14.14.42:383][756]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/DinnerDash.DinnerDash
+[2020.11.01-14.14.42:436][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.11.01-14.14.42:437][756]Cmd: MAP LOAD FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/Levels/DinnerDash.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.01-14.14.42:437][756]LightingResults: New page: Lighting Build
+[2020.11.01-14.14.42:439][756]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2020.11.01-14.14.42:440][756]LoadErrors: New page: Loading map: DinnerDash.umap
+[2020.11.01-14.14.42:440][756]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.14.42:440][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.14.42:441][756]MapCheck: New page: Map Check
+[2020.11.01-14.14.42:441][756]LightingResults: New page: Lighting Build
+[2020.11.01-14.14.42:461][756]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AC60549C00), frame # 104756
+[2020.11.01-14.14.42:461][756]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AC60575940), frame # 104756
+[2020.11.01-14.14.42:464][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.11.01-14.14.42:561][756]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.01-14.14.42:561][756]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.14.42:561][756]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AC83F16C00), frame # 104756
+[2020.11.01-14.14.42:561][756]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AC10F3E340), frame # 104756
+[2020.11.01-14.14.42:564][756]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2020.11.01-14.14.42:590][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.11.01-14.14.42:610][756]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.01-14.14.42:610][756]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2020.11.01-14.14.42:610][756]LogFileHelpers: Loading map 'DinnerDash' took 0.172
+[2020.11.01-14.14.45:633][  1]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2020.11.01-14.15.08:952][766]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (MainCharacter)
+[2020.11.01-14.15.52:374][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.11.01-14.15.52:443][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.11.01-14.15.52:446][129]LogMetaData: Removing '/Game/TopDownBP/Blueprints/MainCharacter.MainCharacter_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.11.01-14.15.52:446][129]LogMetaData: Removing '/Game/TopDownBP/Blueprints/MainCharacter.MainCharacter:RotateToFaceCursor.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.11.01-14.15.52:446][129]LogMetaData: Removing '/Game/TopDownBP/Blueprints/MainCharacter.SKEL_MainCharacter_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.11.01-14.15.52:485][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/MainCharacter" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/TopDownBP/Blueprints/MainCharacter.uasset" SILENT=true
+[2020.11.01-14.15.52:507][129]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/MainCharacterFCA7ED094DFDC4E78AB61CAD5AED7E2F.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/TopDownBP/Blueprints/MainCharacter.uasset'
+[2020.11.01-14.15.52:509][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2020.11.01-14.15.52:516][129]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/TopDownCharacter7D912D98411D172D93AA63B6123C121C.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.11.01-14.15.52:559][129]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.01-14.15.52:559][129]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/MainCharacter.MainCharacter
+[2020.11.01-14.15.52:560][129]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2020.11.01-14.15.52:560][129]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.11.01-14.16.07:998][471]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameWin.GameWin
+[2020.11.01-14.16.19:932][581]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/DinnerDash.DinnerDash:PersistentLevel.DinnerDash
+[2020.11.01-14.16.20:211][581]LogSlate: Took 0.000477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.01-14.17.38:083][307]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameFail.GameFail
+[2020.11.01-14.19.34:970][117]BlueprintLog: New page: Compile Pot
+[2020.11.01-14.19.35:011][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.11.01-14.19.36:979][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Pot" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/InventorySystem/Pot.uasset" SILENT=true
+[2020.11.01-14.19.36:991][349]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Pot646FEBBE4D7522E5392EF69A9451B300.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/InventorySystem/Pot.uasset'
+[2020.11.01-14.19.37:002][349]AssetCheck: New page: Asset Save: Pot
+[2020.11.01-14.19.37:002][349]LogContentValidation: Display: Validating Blueprint /Game/InventorySystem/Pot.Pot
+[2020.11.01-14.20.03:689][544]LogRenderer: Reallocating scene render targets to support 1616x1032 Format 10 NumSamples 1 (Frame:1).
+[2020.11.01-14.20.22:573][785]LogStaticMesh: Building static mesh Pot_01...
+[2020.11.01-14.20.22:591][785]LogStaticMesh: Built static mesh [0.02s] /Game/LowPolyInterior/Meshes/KitchenObjects/Pot_01.Pot_01
+[2020.11.01-14.20.25:913][133]LogStaticMesh: Building static mesh Pot_02...
+[2020.11.01-14.20.25:927][133]LogStaticMesh: Built static mesh [0.01s] /Game/LowPolyInterior/Meshes/KitchenObjects/Pot_02.Pot_02
+[2020.11.01-14.21.00:253][143]BlueprintLog: New page: Compile Pot
+[2020.11.01-14.21.00:318][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.11.01-14.21.36:801][445]BlueprintLog: New page: Compile Pot
+[2020.11.01-14.21.36:851][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.11.01-14.22.05:252][991]LogEditorViewport: Clicking on Actor (LMB): Cupboard_C (Table)
+[2020.11.01-14.22.39:639][ 20]LogEditorViewport: Clicking on Actor (LMB): Cupboard_C (Cupboard)
+[2020.11.01-14.23.11:340][739]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.11.01-14.23.11:344][739]LogMetaData: Removing '/Game/InventorySystem/Spawn_Ingredient.Spawn_Ingredient_C' ref from Metadata '/Game/InventorySystem/Cupboard.PackageMetaData'
+[2020.11.01-14.23.11:344][739]LogMetaData: Removing '/Game/InventorySystem/Spawn_Ingredient.Spawn_Ingredient:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InventorySystem/Cupboard.PackageMetaData'
+[2020.11.01-14.23.11:344][739]LogMetaData: Removing '/Game/InventorySystem/Spawn_Ingredient.Spawn_Ingredient:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventorySystem/Cupboard.PackageMetaData'
+[2020.11.01-14.23.11:344][739]LogMetaData: Removing '/Game/InventorySystem/Spawn_Ingredient.SKEL_Spawn_Ingredient_C' ref from Metadata '/Game/InventorySystem/Cupboard.PackageMetaData'
+[2020.11.01-14.23.11:366][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Spawn_Ingredient" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/InventorySystem/Spawn_Ingredient.uasset" SILENT=true
+[2020.11.01-14.23.11:375][739]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Spawn_IngredientB00345A6415A7833C5CCE08C9A5D087C.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/InventorySystem/Spawn_Ingredient.uasset'
+[2020.11.01-14.23.11:376][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Cupboard" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/InventorySystem/Cupboard.uasset" SILENT=true
+[2020.11.01-14.23.11:379][739]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Cupboard72924CDA41A19D072C304D8D1EFFB2A4.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/InventorySystem/Cupboard.uasset'
+[2020.11.01-14.23.11:428][739]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.01-14.23.11:428][739]LogContentValidation: Display: Validating Blueprint /Game/InventorySystem/Spawn_Ingredient.Spawn_Ingredient
+[2020.11.01-14.23.11:428][739]LogContentValidation: Display: Validating ObjectRedirector /Game/InventorySystem/Cupboard.Cupboard
+[2020.11.01-14.23.11:428][739]LogContentValidation: Display: Validating ObjectRedirector /Game/InventorySystem/Cupboard.Cupboard_C
+[2020.11.01-14.23.27:970][659]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Spawn_Ingredient.Spawn_Ingredient
+[2020.11.01-14.23.43:701][471]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Ingredient.Ingredient
+[2020.11.01-14.27.52:962][954]BlueprintLog: New page: Compile Ingredient
+[2020.11.01-14.27.52:971][954]LogBlueprint: Error: [Compiler Ingredient] The type of  Object  is undetermined.  Connect something to  Cast To MainCharacter  to imply a specific type.
+[2020.11.01-14.27.52:971][954]LogBlueprint: Error: [Compiler Ingredient] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.11.01-14.27.53:023][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.11.01-14.28.03:058][ 37]BlueprintLog: New page: Compile Ingredient
+[2020.11.01-14.28.03:114][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.11.01-14.28.13:498][156]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.28.13:509][156]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.11.01-14.28.13:509][156]LogPlayLevel: [PlayLevel] Compiling Pot before play...
+[2020.11.01-14.28.13:535][156]LogPlayLevel: [PlayLevel] Compiling TopDownController before play...
+[2020.11.01-14.28.13:540][156]LogPlayLevel: [PlayLevel] Compiling TopDownGameMode before play...
+[2020.11.01-14.28.13:546][156]LogPlayLevel: [PlayLevel] Compiling DinnerDash before play...
+[2020.11.01-14.28.13:608][156]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.11.01-14.28.13:610][156]LogPlayLevel: PlayLevel: Blueprint regeneration took 101 ms (4 blueprints)
+[2020.11.01-14.28.13:610][156]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:28:13 pm)
+[2020.11.01-14.28.13:612][156]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.01-14.28.13:613][156]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.01-14.28.13:613][156]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.28.13:624][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011641s)
+[2020.11.01-14.28.13:625][156]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.28.13:625][156]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ACDD2B2C00), frame # 193156
+[2020.11.01-14.28.13:625][156]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AD1CE0EAC0), frame # 193156
+[2020.11.01-14.28.13:625][156]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2020.11.01-14.28.13:625][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.012674s)
+[2020.11.01-14.28.13:661][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.11.01-14.28.13:661][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.28.13:662][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.28.13:662][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.28.13:662][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.28.13:662][156]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.28.13:662][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.28.13:662][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.28.13:662][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.28.13:662][156]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.28.13:662][156]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.28.13:669][156]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.28.13:669][156]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.28.13:690][156]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.28.13:690][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.28.13:690][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.28.13:690][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.28.13:691][156]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.28.13:701][156]LogInit: FAudioDevice initialized.
+[2020.11.01-14.28.13:726][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.28.13:726][156]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.28.13:730][156]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.28.13
+[2020.11.01-14.28.13:730][156]LogWorld: Bringing up level for play took: 0.003691
+[2020.11.01-14.28.13:730][156]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.11.01-14.28.13:743][156]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.11.01-14.28.13:752][156]PIE: Server logged in
+[2020.11.01-14.28.13:754][156]PIE: Play in editor total start time 0.246 seconds.
+[2020.11.01-14.28.27:318][ 49]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.28.27:325][ 49]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.28.27:353][ 49]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.28.27:354][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.28.27:368][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.28.27:374][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.28.27:426][ 49]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AD1CE0EAC0), frame # 194049
+[2020.11.01-14.28.27:426][ 49]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ACDD2B2C00), frame # 194049
+[2020.11.01-14.28.27:447][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.11.01-14.28.27:545][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.11.01-14.28.31:174][367]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Challenges_Of_The_Unknown_Cue)
+[2020.11.01-14.28.38:811][964]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.28.38:821][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.01-14.28.38:821][964]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:28:38 pm)
+[2020.11.01-14.28.38:821][964]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.28.38:832][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010772s)
+[2020.11.01-14.28.38:832][964]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.28.38:832][964]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ACEB705E00), frame # 194964
+[2020.11.01-14.28.38:832][964]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AC87A02FC0), frame # 194964
+[2020.11.01-14.28.38:833][964]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2020.11.01-14.28.38:833][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.011772s)
+[2020.11.01-14.28.38:874][964]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.11.01-14.28.38:877][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.28.38:877][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.28.38:877][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.28.38:877][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.28.38:877][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.28.38:877][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.28.38:877][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.28.38:877][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.28.38:878][964]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.28.38:878][964]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.28.38:883][964]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.28.38:883][964]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.28.38:900][964]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.28.38:900][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.28.38:900][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.28.38:900][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.28.38:901][964]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.28.38:911][964]LogInit: FAudioDevice initialized.
+[2020.11.01-14.28.38:934][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.28.38:934][964]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.28.38:938][964]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.28.38
+[2020.11.01-14.28.38:938][964]LogWorld: Bringing up level for play took: 0.003261
+[2020.11.01-14.28.38:938][964]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.11.01-14.28.38:944][964]PIE: Server logged in
+[2020.11.01-14.28.38:947][964]PIE: Play in editor total start time 0.127 seconds.
+[2020.11.01-14.28.41:583][138]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.28.41:590][138]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.28.41:614][138]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.28.41:614][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.28.41:624][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.28.41:630][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.28.41:676][138]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AC87A02FC0), frame # 195138
+[2020.11.01-14.28.41:676][138]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ACEB705E00), frame # 195138
+[2020.11.01-14.28.41:681][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.11.01-14.28.41:762][139]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.11.01-14.28.43:394][285]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Challenges_Of_The_Unknown_Cue)
+[2020.11.01-14.28.52:688][832]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.28.52:699][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.01-14.28.52:699][832]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:28:52 pm)
+[2020.11.01-14.28.52:699][832]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.28.52:711][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011387s)
+[2020.11.01-14.28.52:712][832]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.28.52:712][832]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ACA7D50A00), frame # 195832
+[2020.11.01-14.28.52:712][832]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ACB5E8E480), frame # 195832
+[2020.11.01-14.28.52:712][832]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2020.11.01-14.28.52:712][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.012543s)
+[2020.11.01-14.28.52:750][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.11.01-14.28.52:752][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.28.52:752][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.28.52:752][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.28.52:752][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.28.52:752][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.28.52:752][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.28.52:752][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.28.52:752][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.28.52:753][832]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.28.52:753][832]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.28.52:758][832]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.28.52:758][832]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.28.52:778][832]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.28.52:778][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.28.52:778][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.28.52:778][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.28.52:779][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.28.52:790][832]LogInit: FAudioDevice initialized.
+[2020.11.01-14.28.52:809][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.28.52:809][832]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.28.52:812][832]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.28.52
+[2020.11.01-14.28.52:812][832]LogWorld: Bringing up level for play took: 0.002887
+[2020.11.01-14.28.52:812][832]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.11.01-14.28.52:818][832]PIE: Server logged in
+[2020.11.01-14.28.52:820][832]PIE: Play in editor total start time 0.122 seconds.
+[2020.11.01-14.28.58:441][213]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.28.58:449][213]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.28.58:484][213]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.28.58:485][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.28.58:497][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.28.58:502][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.28.58:548][213]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ACB5E8E480), frame # 196213
+[2020.11.01-14.28.58:548][213]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ACA7D50A00), frame # 196213
+[2020.11.01-14.28.58:554][213]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.11.01-14.28.58:637][214]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.11.01-14.30.32:721][694]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.11.01-14.30.32:726][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DinnerDash" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/Levels/DinnerDash_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.11.01-14.30.32:772][694]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/DinnerDash_Auto1E381A29240EE9614E74D46B3230DBE4B.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/Levels/DinnerDash_Auto1.umap'
+[2020.11.01-14.30.32:772][694]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DinnerDash' took 0.088
+[2020.11.01-14.30.32:772][694]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2020.11.01-14.30.32:773][694]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InventorySystem/Pot] ([1] browsable assets)...
+[2020.11.01-14.30.32:783][694]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InventorySystem/Pot.Pot]
+[2020.11.01-14.30.32:783][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Pot]
+[2020.11.01-14.30.32:783][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Pot" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/InventorySystem/Pot_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.11.01-14.30.32:798][694]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Pot_Auto19DB2D3CF4BE0B0919BF16198915E6B42.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/InventorySystem/Pot_Auto1.uasset'
+[2020.11.01-14.30.32:799][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Ingredient] ([1] browsable assets)...
+[2020.11.01-14.30.32:799][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Ingredient]
+[2020.11.01-14.30.32:799][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Ingredient" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/InventorySystem/Ingredient_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.11.01-14.30.32:807][694]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Ingredient_Auto172C84CFB438F99D174343E9EE6259574.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/InventorySystem/Ingredient_Auto1.uasset'
+[2020.11.01-14.30.32:808][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownGameMode] ([1] browsable assets)...
+[2020.11.01-14.30.32:808][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownGameMode]
+[2020.11.01-14.30.32:820][694]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/TopDownGameMode_Auto1D8A09EE840844E0C9F95E08AFD46B271.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownGameMode_Auto1.uasset'
+[2020.11.01-14.30.32:821][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownController] ([1] browsable assets)...
+[2020.11.01-14.30.32:821][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownController]
+[2020.11.01-14.30.32:829][694]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/TopDownController_Auto101A5FE2B4B3CA31289741995DBE77C8E.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownController_Auto1.uasset'
+[2020.11.01-14.30.32:830][694]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/MainCharacter] ([1] browsable assets)...
+[2020.11.01-14.30.32:837][694]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/MainCharacter.MainCharacter]
+[2020.11.01-14.30.32:837][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/MainCharacter]
+[2020.11.01-14.30.32:857][694]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/MainCharacter_Auto1A586B2F64528ADC33832C19F11BE3E90.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/TopDownBP/Blueprints/MainCharacter_Auto1.uasset'
+[2020.11.01-14.30.32:858][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Spawn_Ingredient] ([1] browsable assets)...
+[2020.11.01-14.30.32:858][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Spawn_Ingredient]
+[2020.11.01-14.30.32:869][694]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Spawn_Ingredient_Auto1D5F6EAD04870FE8CC1C02DB846512063.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/InventorySystem/Spawn_Ingredient_Auto1.uasset'
+[2020.11.01-14.30.32:869][694]LogFileHelpers: Auto-saving content packages took 0.097
+[2020.11.01-14.30.53:883][192]LogEditorTransaction: Undo Move Nodes
+[2020.11.01-14.31.12:065][228]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/pickup.pickup
+[2020.11.01-14.32.50:927][460]BlueprintLog: New page: Compile MainCharacter
+[2020.11.01-14.32.50:934][460]LogBlueprint: Error: [Compiler MainCharacter] The type of  Object  is undetermined.  Connect something to  Cast To Ingredient  to imply a specific type.
+[2020.11.01-14.32.50:934][460]LogBlueprint: Error: [Compiler MainCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.11.01-14.32.51:003][460]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.11.01-14.33.05:555][131]BlueprintLog: New page: Compile MainCharacter
+[2020.11.01-14.33.05:559][131]LogBlueprint: Warning: [Compiler MainCharacter] 'Ingredient' does not inherit from 'Character' ( Cast To Ingredient  would always fail).
+[2020.11.01-14.33.05:628][131]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2020.11.01-14.34.51:863][479]BlueprintLog: New page: Compile MainCharacter
+[2020.11.01-14.34.51:868][479]LogBlueprint: Warning: [Compiler MainCharacter] 'Ingredient' does not inherit from 'Static Mesh Component' ( Cast To Ingredient  would always fail).
+[2020.11.01-14.34.51:869][479]LogBlueprint: Error: [Compiler MainCharacter] This blueprint (self) is not a Ingredient_C, therefore ' Target ' must have a connection.
+[2020.11.01-14.34.51:869][479]LogBlueprint: Error: [Compiler MainCharacter] Variable node  Get FoodMesh  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.11.01-14.34.51:935][479]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.11.01-14.36.10:102][750]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.36.10:102][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.36.10:119][750]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.36.10:119][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.36.14:001][168]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.36.14:001][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.36.14:017][168]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.36.14:017][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.37.43:352][520]BlueprintLog: New page: Compile MainCharacter
+[2020.11.01-14.37.43:431][520]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.11.01-14.37.46:637][886]BlueprintLog: New page: Compile Ingredient
+[2020.11.01-14.37.46:702][886]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2020.11.01-14.37.48:386][ 51]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.37.48:396][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.01-14.37.48:396][ 51]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:37:48 pm)
+[2020.11.01-14.37.48:396][ 51]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.37.48:408][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012121s)
+[2020.11.01-14.37.48:409][ 51]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.37.48:409][ 51]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AD1D717600), frame # 256051
+[2020.11.01-14.37.48:409][ 51]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AC8A7C51C0), frame # 256051
+[2020.11.01-14.37.48:409][ 51]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2020.11.01-14.37.48:409][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.013092s)
+[2020.11.01-14.37.48:448][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.11.01-14.37.48:450][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.37.48:450][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.37.48:450][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.37.48:450][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.37.48:450][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.37.48:450][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.37.48:450][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.37.48:450][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.37.48:450][ 51]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.37.48:450][ 51]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.37.48:456][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.37.48:456][ 51]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.37.48:473][ 51]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.37.48:474][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.37.48:474][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.37.48:474][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.37.48:474][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.37.48:485][ 51]LogInit: FAudioDevice initialized.
+[2020.11.01-14.37.48:509][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.37.48:509][ 51]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.37.48:513][ 51]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.37.48
+[2020.11.01-14.37.48:513][ 51]LogWorld: Bringing up level for play took: 0.003661
+[2020.11.01-14.37.48:513][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.11.01-14.37.48:520][ 51]PIE: Server logged in
+[2020.11.01-14.37.48:523][ 51]PIE: Play in editor total start time 0.127 seconds.
+[2020.11.01-14.38.07:269][737]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.38.07:274][737]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.38.07:304][737]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.38.07:304][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.38.07:319][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.38.07:326][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.38.07:373][737]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AC8A7C51C0), frame # 257737
+[2020.11.01-14.38.07:373][737]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AD1D717600), frame # 257737
+[2020.11.01-14.38.07:378][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.11.01-14.38.07:460][738]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.11.01-14.38.08:349][824]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.38.08:360][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.01-14.38.08:360][824]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:38:08 pm)
+[2020.11.01-14.38.08:360][824]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.38.08:371][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010705s)
+[2020.11.01-14.38.08:372][824]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.38.08:372][824]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AD44DA2200), frame # 257824
+[2020.11.01-14.38.08:372][824]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AD2CD48900), frame # 257824
+[2020.11.01-14.38.08:373][824]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2020.11.01-14.38.08:373][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.011753s)
+[2020.11.01-14.38.08:410][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.11.01-14.38.08:411][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.38.08:411][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.38.08:411][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.38.08:411][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.38.08:411][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.38.08:411][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.38.08:411][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.38.08:411][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.38.08:411][824]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.38.08:411][824]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.38.08:416][824]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.38.08:416][824]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.38.08:433][824]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.38.08:433][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.38.08:433][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.38.08:433][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.38.08:434][824]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.38.08:445][824]LogInit: FAudioDevice initialized.
+[2020.11.01-14.38.08:467][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.38.08:467][824]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.38.08:470][824]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.38.08
+[2020.11.01-14.38.08:471][824]LogWorld: Bringing up level for play took: 0.002857
+[2020.11.01-14.38.08:471][824]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.11.01-14.38.08:478][824]PIE: Server logged in
+[2020.11.01-14.38.08:481][824]PIE: Play in editor total start time 0.12 seconds.
+[2020.11.01-14.38.14:346][343]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.38.14:352][343]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.38.14:404][343]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.38.14:405][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.38.14:420][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.38.14:426][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.38.14:476][343]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AD2CD48900), frame # 258343
+[2020.11.01-14.38.14:476][343]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AD44DA2200), frame # 258343
+[2020.11.01-14.38.14:480][343]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.11.01-14.38.14:568][344]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.11.01-14.38.57:182][703]BlueprintLog: New page: Compile MainCharacter
+[2020.11.01-14.38.57:251][703]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.11.01-14.38.58:548][814]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.38.58:557][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.01-14.38.58:558][814]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:38:58 pm)
+[2020.11.01-14.38.58:558][814]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.38.58:570][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011889s)
+[2020.11.01-14.38.58:570][814]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.38.58:570][814]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AD112BA600), frame # 262814
+[2020.11.01-14.38.58:570][814]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AC84296200), frame # 262814
+[2020.11.01-14.38.58:571][814]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2020.11.01-14.38.58:571][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.013072s)
+[2020.11.01-14.38.58:612][814]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.11.01-14.38.58:614][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.38.58:614][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.38.58:614][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.38.58:614][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.38.58:614][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.38.58:614][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.38.58:614][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.38.58:614][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.38.58:614][814]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.38.58:614][814]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.38.58:619][814]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.38.58:619][814]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.38.58:635][814]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.38.58:636][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.38.58:636][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.38.58:636][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.38.58:636][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.38.58:647][814]LogInit: FAudioDevice initialized.
+[2020.11.01-14.38.58:670][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.38.58:670][814]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.38.58:673][814]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.38.58
+[2020.11.01-14.38.58:674][814]LogWorld: Bringing up level for play took: 0.003062
+[2020.11.01-14.38.58:674][814]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.11.01-14.38.58:679][814]PIE: Server logged in
+[2020.11.01-14.38.58:682][814]PIE: Play in editor total start time 0.125 seconds.
+[2020.11.01-14.39.09:182][736]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.39.09:188][736]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.39.09:234][736]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.39.09:234][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.39.09:249][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.39.09:255][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.39.09:303][736]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AC84296200), frame # 263736
+[2020.11.01-14.39.09:303][736]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AD112BA600), frame # 263736
+[2020.11.01-14.39.09:308][736]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.11.01-14.39.09:394][737]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.11.01-14.39.22:724][142]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.11.01-14.40.18:109][710]LogEditorTransaction: Undo Move Node
+[2020.11.01-14.40.18:592][731]LogEditorTransaction: Undo Move Node
+[2020.11.01-14.40.18:974][765]LogEditorTransaction: Undo Create Pin Link
+[2020.11.01-14.40.19:464][811]LogEditorTransaction: Undo Delete current selection
+[2020.11.01-14.40.20:078][870]LogEditorTransaction: Undo Delete current selection
+[2020.11.01-14.40.20:824][942]LogEditorTransaction: Undo Delete current selection
+[2020.11.01-14.40.28:612][720]BlueprintLog: New page: Compile MainCharacter
+[2020.11.01-14.40.28:682][720]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2020.11.01-14.40.30:552][885]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.40.30:562][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.01-14.40.30:562][885]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:40:30 pm)
+[2020.11.01-14.40.30:562][885]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.40.30:574][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011927s)
+[2020.11.01-14.40.30:575][885]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.40.30:575][885]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AC6B414400), frame # 271885
+[2020.11.01-14.40.30:575][885]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ACCD5C8F40), frame # 271885
+[2020.11.01-14.40.30:575][885]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2020.11.01-14.40.30:575][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.012916s)
+[2020.11.01-14.40.30:617][885]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2020.11.01-14.40.30:618][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.40.30:618][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.40.30:618][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.40.30:618][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.40.30:618][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.40.30:618][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.40.30:618][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.40.30:618][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.40.30:619][885]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.40.30:619][885]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.40.30:624][885]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.40.30:624][885]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.40.30:641][885]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.40.30:642][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.40.30:642][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.40.30:642][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.40.30:642][885]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.40.30:653][885]LogInit: FAudioDevice initialized.
+[2020.11.01-14.40.30:679][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.40.30:679][885]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.40.30:683][885]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.40.30
+[2020.11.01-14.40.30:683][885]LogWorld: Bringing up level for play took: 0.003942
+[2020.11.01-14.40.30:684][885]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.11.01-14.40.30:690][885]PIE: Server logged in
+[2020.11.01-14.40.30:692][885]PIE: Play in editor total start time 0.131 seconds.
+[2020.11.01-14.40.32:091][  0]LogBlueprintUserMessages: [MainCharacter] Apple
+[2020.11.01-14.40.33:708][144]LogBlueprintUserMessages: [MainCharacter] Apple
+[2020.11.01-14.40.34:589][219]LogBlueprintUserMessages: [MainCharacter] Apple
+[2020.11.01-14.40.35:343][285]LogBlueprintUserMessages: [MainCharacter] Apple
+[2020.11.01-14.40.36:028][346]LogBlueprintUserMessages: [MainCharacter] Apple
+[2020.11.01-14.40.36:249][366]LogBlueprintUserMessages: [MainCharacter] Apple
+[2020.11.01-14.40.36:492][388]LogBlueprintUserMessages: [MainCharacter] Apple
+[2020.11.01-14.40.37:584][482]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.40.37:590][482]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.40.37:624][482]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.40.37:624][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.40.37:640][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.40.37:646][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.40.37:694][482]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ACCD5C8F40), frame # 272482
+[2020.11.01-14.40.37:694][482]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AC6B414400), frame # 272482
+[2020.11.01-14.40.37:698][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.11.01-14.40.37:778][483]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.11.01-14.41.02:361][903]BlueprintLog: New page: Compile MainCharacter
+[2020.11.01-14.41.02:428][903]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.11.01-14.41.04:415][ 79]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.41.04:425][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.01-14.41.04:425][ 79]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:41:04 pm)
+[2020.11.01-14.41.04:425][ 79]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.41.04:436][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010724s)
+[2020.11.01-14.41.04:437][ 79]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.41.04:437][ 79]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AD2A32AA00), frame # 275079
+[2020.11.01-14.41.04:437][ 79]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AC6BE76700), frame # 275079
+[2020.11.01-14.41.04:437][ 79]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2020.11.01-14.41.04:437][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.011710s)
+[2020.11.01-14.41.04:475][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.11.01-14.41.04:476][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.41.04:476][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.41.04:476][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.41.04:476][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.41.04:477][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.41.04:477][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.41.04:477][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.41.04:477][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.41.04:477][ 79]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.41.04:477][ 79]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.41.04:482][ 79]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.41.04:482][ 79]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.41.04:499][ 79]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.41.04:499][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.41.04:499][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.41.04:499][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.41.04:500][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.41.04:510][ 79]LogInit: FAudioDevice initialized.
+[2020.11.01-14.41.04:535][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.41.04:535][ 79]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.41.04:538][ 79]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.41.04
+[2020.11.01-14.41.04:538][ 79]LogWorld: Bringing up level for play took: 0.002953
+[2020.11.01-14.41.04:538][ 79]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.11.01-14.41.04:544][ 79]PIE: Server logged in
+[2020.11.01-14.41.04:547][ 79]PIE: Play in editor total start time 0.122 seconds.
+[2020.11.01-14.41.06:395][228]LogBlueprintUserMessages: [MainCharacter] Apple
+[2020.11.01-14.41.14:265][895]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.41.14:271][895]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.41.14:304][895]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.41.14:304][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.41.14:315][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.41.14:321][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.41.14:370][895]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AD2A32AA00), frame # 275895
+[2020.11.01-14.41.14:370][895]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AC6BE76700), frame # 275895
+[2020.11.01-14.41.14:375][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.11.01-14.41.14:465][896]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.11.01-14.41.15:172][964]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.41.15:182][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.01-14.41.15:182][964]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:41:15 pm)
+[2020.11.01-14.41.15:182][964]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.41.15:193][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010912s)
+[2020.11.01-14.41.15:194][964]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.41.15:194][964]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ACBFF29400), frame # 275964
+[2020.11.01-14.41.15:194][964]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ACC0522840), frame # 275964
+[2020.11.01-14.41.15:194][964]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2020.11.01-14.41.15:194][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.011982s)
+[2020.11.01-14.41.15:232][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.11.01-14.41.15:233][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.41.15:233][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.41.15:233][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.41.15:233][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.41.15:233][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.41.15:233][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.41.15:233][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.41.15:233][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.41.15:234][964]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.41.15:234][964]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.41.15:239][964]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.41.15:239][964]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.41.15:256][964]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.41.15:256][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.41.15:256][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.41.15:256][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.41.15:257][964]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.41.15:267][964]LogInit: FAudioDevice initialized.
+[2020.11.01-14.41.15:291][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.41.15:291][964]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.41.15:294][964]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.41.15
+[2020.11.01-14.41.15:294][964]LogWorld: Bringing up level for play took: 0.002897
+[2020.11.01-14.41.15:295][964]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.11.01-14.41.15:300][964]PIE: Server logged in
+[2020.11.01-14.41.15:302][964]PIE: Play in editor total start time 0.12 seconds.
+[2020.11.01-14.41.17:144][108]LogBlueprintUserMessages: [MainCharacter] Apple
+[2020.11.01-14.41.19:573][311]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.41.19:579][311]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.41.19:624][311]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.41.19:624][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.41.19:635][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.41.19:641][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.41.19:688][311]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ACC0522840), frame # 276311
+[2020.11.01-14.41.19:688][311]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ACBFF29400), frame # 276311
+[2020.11.01-14.41.19:694][311]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.11.01-14.41.19:775][312]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.11.01-14.42.24:456][ 84]BlueprintLog: New page: Compile Ingredient
+[2020.11.01-14.42.24:517][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.11.01-14.42.28:492][481]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.42.28:502][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.01-14.42.28:502][481]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:42:28 pm)
+[2020.11.01-14.42.28:502][481]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.42.28:513][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011086s)
+[2020.11.01-14.42.28:514][481]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.42.28:514][481]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AD1E495E00), frame # 283481
+[2020.11.01-14.42.28:514][481]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AD2AE90540), frame # 283481
+[2020.11.01-14.42.28:514][481]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2020.11.01-14.42.28:514][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.012086s)
+[2020.11.01-14.42.28:554][481]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.11.01-14.42.28:556][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.42.28:556][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.42.28:556][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.42.28:556][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.42.28:556][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.42.28:556][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.42.28:556][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.42.28:556][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.42.28:556][481]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.42.28:556][481]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.42.28:561][481]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.42.28:561][481]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.42.28:580][481]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.42.28:580][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.42.28:580][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.42.28:580][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.42.28:581][481]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.42.28:591][481]LogInit: FAudioDevice initialized.
+[2020.11.01-14.42.28:613][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.42.28:613][481]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.42.28:616][481]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.42.28
+[2020.11.01-14.42.28:616][481]LogWorld: Bringing up level for play took: 0.003076
+[2020.11.01-14.42.28:617][481]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.11.01-14.42.28:623][481]PIE: Server logged in
+[2020.11.01-14.42.28:625][481]PIE: Play in editor total start time 0.124 seconds.
+[2020.11.01-14.42.30:563][637]LogBlueprintUserMessages: [MainCharacter] Steak
+[2020.11.01-14.42.33:026][844]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.42.33:032][844]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.42.33:063][844]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.42.33:064][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.42.33:078][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.42.33:083][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.42.33:131][844]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AD1E495E00), frame # 283844
+[2020.11.01-14.42.33:131][844]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AD2AE90540), frame # 283844
+[2020.11.01-14.42.33:135][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.11.01-14.42.33:218][845]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.11.01-14.42.33:962][913]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.42.33:972][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.01-14.42.33:972][913]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:42:33 pm)
+[2020.11.01-14.42.33:972][913]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.42.33:984][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011798s)
+[2020.11.01-14.42.33:985][913]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.42.33:985][913]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AC9EF64200), frame # 283913
+[2020.11.01-14.42.33:985][913]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AC159E4E00), frame # 283913
+[2020.11.01-14.42.33:985][913]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2020.11.01-14.42.33:985][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.012832s)
+[2020.11.01-14.42.34:024][913]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.11.01-14.42.34:026][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.42.34:026][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.42.34:026][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.42.34:026][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.42.34:026][913]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.42.34:026][913]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.42.34:026][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.42.34:026][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.42.34:026][913]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.42.34:026][913]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.42.34:031][913]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.42.34:031][913]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.42.34:047][913]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.42.34:048][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.42.34:048][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.42.34:048][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.42.34:048][913]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.42.34:058][913]LogInit: FAudioDevice initialized.
+[2020.11.01-14.42.34:084][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.42.34:084][913]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.42.34:088][913]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.42.34
+[2020.11.01-14.42.34:088][913]LogWorld: Bringing up level for play took: 0.002996
+[2020.11.01-14.42.34:088][913]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.11.01-14.42.34:094][913]PIE: Server logged in
+[2020.11.01-14.42.34:096][913]PIE: Play in editor total start time 0.124 seconds.
+[2020.11.01-14.42.34:992][979]LogBlueprintUserMessages: [MainCharacter] Pumpkin
+[2020.11.01-14.42.36:869][136]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.42.36:875][136]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.42.36:914][136]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.42.36:914][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.42.36:930][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.42.36:936][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.42.36:983][136]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AC159E4E00), frame # 284136
+[2020.11.01-14.42.36:983][136]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AC9EF64200), frame # 284136
+[2020.11.01-14.42.36:989][136]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.11.01-14.42.37:072][137]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.11.01-14.43.16:636][515]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/inventory.inventory
+[2020.11.01-14.43.54:818][742]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/item.item
+[2020.11.01-14.45.30:655][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.11.01-14.45.30:658][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DinnerDash" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/Levels/DinnerDash_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.11.01-14.45.30:703][529]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/DinnerDash_Auto24FF6C99D49D306B35BFE2F90B656940E.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/Levels/DinnerDash_Auto2.umap'
+[2020.11.01-14.45.30:704][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DinnerDash' took 0.089
+[2020.11.01-14.45.30:704][529]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.089
+[2020.11.01-14.45.30:704][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InventorySystem/Pot] ([1] browsable assets)...
+[2020.11.01-14.45.30:712][529]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InventorySystem/Pot.Pot]
+[2020.11.01-14.45.30:712][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Pot]
+[2020.11.01-14.45.30:712][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Pot" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/InventorySystem/Pot_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.11.01-14.45.30:727][529]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Pot_Auto29B30C4B845DDC70FD65AC89934583063.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/InventorySystem/Pot_Auto2.uasset'
+[2020.11.01-14.45.30:727][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Ingredient] ([1] browsable assets)...
+[2020.11.01-14.45.30:727][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Ingredient]
+[2020.11.01-14.45.30:727][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Ingredient" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/InventorySystem/Ingredient_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.11.01-14.45.30:735][529]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Ingredient_Auto2C82C60374819FB83F5847EB4FB552FAD.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/InventorySystem/Ingredient_Auto2.uasset'
+[2020.11.01-14.45.30:736][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/MainCharacter] ([1] browsable assets)...
+[2020.11.01-14.45.30:743][529]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/MainCharacter.MainCharacter]
+[2020.11.01-14.45.30:743][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/MainCharacter]
+[2020.11.01-14.45.30:765][529]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/MainCharacter_Auto23A450A2D4E62AB748DD228ACB57198DE.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/TopDownBP/Blueprints/MainCharacter_Auto2.uasset'
+[2020.11.01-14.45.30:766][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Spawn_Ingredient] ([1] browsable assets)...
+[2020.11.01-14.45.30:766][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Spawn_Ingredient]
+[2020.11.01-14.45.30:776][529]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Spawn_Ingredient_Auto2FD5F833B437264339282189922659FC1.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/Autosaves/Game/InventorySystem/Spawn_Ingredient_Auto2.uasset'
+[2020.11.01-14.45.30:777][529]LogFileHelpers: Auto-saving content packages took 0.073
+[2020.11.01-14.46.44:065][422]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2020.11.01-14.46.44:146][422]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2020.11.01-14.46.44:165][422]LogMetaData: Removing '/Game/InventorySystem/ItemHUD.ItemHUD_C' ref from Metadata '/Game/InventorySystem/item.PackageMetaData'
+[2020.11.01-14.46.44:165][422]LogMetaData: Removing '/Game/InventorySystem/ItemHUD.ItemHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InventorySystem/item.PackageMetaData'
+[2020.11.01-14.46.44:165][422]LogMetaData: Removing '/Game/InventorySystem/ItemHUD.ItemHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InventorySystem/item.PackageMetaData'
+[2020.11.01-14.46.44:165][422]LogMetaData: Removing '/Game/InventorySystem/ItemHUD.ItemHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InventorySystem/item.PackageMetaData'
+[2020.11.01-14.46.44:165][422]LogMetaData: Removing '/Game/InventorySystem/ItemHUD.SKEL_ItemHUD_C' ref from Metadata '/Game/InventorySystem/item.PackageMetaData'
+[2020.11.01-14.46.44:189][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/ItemHUD" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/InventorySystem/ItemHUD.uasset" SILENT=true
+[2020.11.01-14.46.44:198][422]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/ItemHUD51651F47482CCB428EE9818D935850A3.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/InventorySystem/ItemHUD.uasset'
+[2020.11.01-14.46.44:468][422]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2020.11.01-14.46.44:513][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.11.01-14.46.44:551][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.11.01-14.46.44:563][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/inventory" FILE="D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/InventorySystem/inventory.uasset" SILENT=true
+[2020.11.01-14.46.44:572][422]LogSavePackage: Moving 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Saved/inventoryE7B630D14B4B929249333EADA2ED4F16.tmp' to 'D:/GitKraken/GAD180-Group4/Dinner_Dash/Content/InventorySystem/inventory.uasset'
+[2020.11.01-14.46.44:627][422]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.01-14.46.44:627][422]LogContentValidation: Display: Validating WidgetBlueprint /Game/InventorySystem/ItemHUD.ItemHUD
+[2020.11.01-14.46.44:627][422]LogContentValidation: Display: Validating WidgetBlueprint /Game/InventorySystem/inventory.inventory
+[2020.11.01-14.47.32:415][352]LogEditorTransaction: Undo Add Node
+[2020.11.01-14.48.57:014][495]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/InventorySystem/FoodItemData.FoodItemData
+[2020.11.01-14.49.02:859][149]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/InventorySystem/FoodItemType.FoodItemType
+[2020.11.01-14.50.54:762][455]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.01-14.56.22:305][937]BlueprintLog: New page: Compile inventory
+[2020.11.01-14.56.22:357][937]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.11.01-14.56.23:711][ 83]BlueprintLog: New page: Compile ItemHUD
+[2020.11.01-14.56.23:758][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.11.01-14.56.25:594][291]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.11.01-14.56.25:606][291]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.11.01-14.56.25:615][291]LogPlayLevel: [PlayLevel] Compiling Ingredient before play...
+[2020.11.01-14.56.25:652][291]LogPlayLevel: [PlayLevel] Compiling MainCharacter before play...
+[2020.11.01-14.56.25:699][291]LogPlayLevel: [PlayLevel] Compiling Pot before play...
+[2020.11.01-14.56.25:723][291]LogPlayLevel: [PlayLevel] Compiling Spawn_Ingredient before play...
+[2020.11.01-14.56.25:747][291]LogPlayLevel: [PlayLevel] Compiling TopDownController before play...
+[2020.11.01-14.56.25:751][291]LogPlayLevel: [PlayLevel] Compiling TopDownGameMode before play...
+[2020.11.01-14.56.25:758][291]LogPlayLevel: [PlayLevel] Compiling DinnerDash before play...
+[2020.11.01-14.56.25:828][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.11.01-14.56.25:829][291]LogPlayLevel: PlayLevel: Blueprint regeneration took 222 ms (7 blueprints)
+[2020.11.01-14.56.25:829][291]PIE: New page: PIE session: DinnerDash (2 Nov 2020, 12:56:25 pm)
+[2020.11.01-14.56.25:829][291]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.56.25:841][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011964s)
+[2020.11.01-14.56.25:842][291]LogAIModule: Creating AISystem for world DinnerDash
+[2020.11.01-14.56.25:842][291]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AD20865A00), frame # 373291
+[2020.11.01-14.56.25:842][291]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AC9BBB3D80), frame # 373291
+[2020.11.01-14.56.25:843][291]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2020.11.01-14.56.25:843][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DinnerDash.DinnerDash to /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash (0.013444s)
+[2020.11.01-14.56.25:885][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.11.01-14.56.25:887][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.01-14.56.25:887][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.01-14.56.25:887][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.01-14.56.25:887][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.01-14.56.25:887][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.01-14.56.25:887][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.01-14.56.25:887][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.01-14.56.25:887][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.01-14.56.25:887][291]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.01-14.56.25:887][291]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.01-14.56.25:892][291]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.01-14.56.25:892][291]LogAudioMixer: Display: 1: FrontRight
+[2020.11.01-14.56.25:910][291]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Play! 3)
+[2020.11.01-14.56.25:911][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.01-14.56.25:911][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.01-14.56.25:911][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.01-14.56.25:911][291]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.01-14.56.25:922][291]LogInit: FAudioDevice initialized.
+[2020.11.01-14.56.25:937][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.01-14.56.25:937][291]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.11.01-14.56.25:940][291]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DinnerDash.DinnerDash up for play (max tick rate 0) at 2020.11.02-01.56.25
+[2020.11.01-14.56.25:941][291]LogWorld: Bringing up level for play took: 0.003200
+[2020.11.01-14.56.25:941][291]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.11.01-14.56.25:945][291]PIE: Server logged in
+[2020.11.01-14.56.25:946][291]PIE: Play in editor total start time 0.34 seconds.
+[2020.11.01-14.56.27:739][459]LogBlueprintUserMessages: [MainCharacter] Steak
+[2020.11.01-14.56.32:532][947]LogSlate: Window 'Dinner_Dash Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.01-14.56.32:538][947]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DinnerDash
+[2020.11.01-14.56.32:573][947]LogWorld: UWorld::CleanupWorld for DinnerDash, bSessionEnded=true, bCleanupResources=true
+[2020.11.01-14.56.32:574][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.56.32:583][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.01-14.56.32:588][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.01-14.56.32:642][947]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AC9BBB3D80), frame # 373947
+[2020.11.01-14.56.32:642][947]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AD20865A00), frame # 373947
+[2020.11.01-14.56.32:646][947]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.11.01-14.56.32:676][948]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.11.01-14.58.06:161][742]LogEditorTransaction: Undo Add Node
+[2020.11.01-14.58.26:614][ 60]LogEditorTransaction: Undo Add Node
+[2020.11.01-14.59.43:209][ 52]LogEditorTransaction: Undo Move Node
+[2020.11.01-14.59.45:031][231]LogEditorTransaction: Undo Convert to Pure Cast
+[2020.11.01-15.01.44:375][ 77]BlueprintLog: New page: Compile MainCharacter
+[2020.11.01-15.01.44:385][ 77]LogBlueprint: Warning: [Compiler MainCharacter] 'Ingredient' does not inherit from 'Static Mesh Component' ( Cast To Ingredient  would always fail).
+[2020.11.01-15.01.44:386][ 77]LogBlueprint: Error: [Compiler MainCharacter] This blueprint (self) is not a Ingredient_C, therefore ' Target ' must have a connection.
+[2020.11.01-15.01.44:386][ 77]LogBlueprint: Error: [Compiler MainCharacter] Variable node  Get FoodMesh  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.11.01-15.01.44:456][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.11.01-15.02.02:380][ 43]BlueprintLog: New page: Compile MainCharacter
+[2020.11.01-15.02.02:385][ 43]LogBlueprint: Warning: [Compiler MainCharacter] 'Ingredient' does not inherit from 'Static Mesh' ( Cast To Ingredient  would always fail).
+[2020.11.01-15.02.02:391][ 43]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.01-15.02.02:691][ 43]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.300 s
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: 
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 1229]
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: 
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: Stack: 
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd3eb89099 UE4Editor-Engine.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd3d5fe0e6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd3a42d693 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd3a3d6b1f UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd3a3d6861 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd3c0597be UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd3a4d67d0 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd3a4f220e UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd449ef238 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd44adb0a9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd44abae07 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd44b5207e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd44b6b27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd449b2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd44a369cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd44a1f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd44a12392 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd70537f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd70525c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd7053a609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd705217d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd98b95c0d USER32.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd98b95602 USER32.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd7053bb24 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ff6446568c4 UE4Editor.exe!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ff64466ba7c UE4Editor.exe!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ff64466bb5a UE4Editor.exe!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ff64467e31d UE4Editor.exe!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ff64468145a UE4Editor.exe!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd98d37bd4 KERNEL32.DLL!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffd9a36ce51 ntdll.dll!UnknownFunction []
+[2020.11.01-15.02.02:691][ 43]LogOutputDevice: Error: 
