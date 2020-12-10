@@ -1,0 +1,2555 @@
+﻿Log file open, 12/10/20 15:25:38
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Dinner_Dash
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.202030
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 3800X 8-Core Processor             , GPU: AMD Radeon RX 5600 XT
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Engine.ini]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Engine.ini]
+[2020.12.10-04.25.38:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Engine.ini]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Engine.ini]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2020.12.10-04.25.38:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Engine.ini]
+[2020.12.10-04.25.38:509][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Engine.ini]
+[2020.12.10-04.25.38:519][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.10-04.25.38:519][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:519][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.10-04.25.38:520][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.10-04.25.38:520][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.10-04.25.38:520][  0]LogHAL: Display: Platform has ~ 32 GB [34308009984 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.10-04.25.38:520][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.10-04.25.38:520][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.10-04.25.38:520][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Scalability.ini]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.10-04.25.38:521][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Config/Windows/Engine.ini]
+[2020.12.10-04.25.38:521][  0]LogInit: Computer: DESKTOP-KL50EEF
+[2020.12.10-04.25.38:521][  0]LogInit: User: matthew
+[2020.12.10-04.25.38:521][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.12.10-04.25.38:521][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.10-04.25.38:521][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2020.12.10-04.25.38:521][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.10-04.25.38:521][  0]LogMemory: Process Physical Memory: 139.50 MB used, 139.50 MB peak
+[2020.12.10-04.25.38:521][  0]LogMemory: Process Virtual Memory: 121.41 MB used, 121.41 MB peak
+[2020.12.10-04.25.38:521][  0]LogMemory: Physical Memory: 15737.48 MB used,  16981.18 MB free, 32718.67 MB total
+[2020.12.10-04.25.38:521][  0]LogMemory: Virtual Memory: 134207144.00 MB used,  10581.46 MB free, 134217728.00 MB total
+[2020.12.10-04.25.38:526][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.10-04.25.38:559][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.10-04.25.38:560][  0]LogInit: Using OS detected language (en-GB).
+[2020.12.10-04.25.38:560][  0]LogInit: Using OS detected locale (en-GB).
+[2020.12.10-04.25.38:562][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.12.10-04.25.38:708][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.10-04.25.38:720][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.10-04.25.38:749][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.10-04.25.38:749][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.10-04.25.38:933][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.10-04.25.38:933][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.10-04.25.38:933][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.10-04.25.38:933][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.10-04.25.38:971][  0]LogD3D11RHI:    0. 'AMD Radeon RX 5600 XT' (Feature Level 11_0)
+[2020.12.10-04.25.38:971][  0]LogD3D11RHI:       6104/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.12.10-04.25.38:973][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.10-04.25.38:973][  0]LogD3D11RHI:       0/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.10-04.25.38:973][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.10-04.25.38:980][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.10-04.25.38:980][  0]LogD3D11RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2020.12.10-04.25.38:980][  0]LogWindows: EnumDisplayDevices:
+[2020.12.10-04.25.38:980][  0]LogWindows:    0. 'AMD Radeon RX 5600 XT' (P:1 D:1)
+[2020.12.10-04.25.38:980][  0]LogWindows:    1. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2020.12.10-04.25.38:980][  0]LogWindows:    2. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2020.12.10-04.25.38:981][  0]LogWindows:    3. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2020.12.10-04.25.38:981][  0]LogWindows:    4. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2020.12.10-04.25.38:981][  0]LogWindows:    5. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2020.12.10-04.25.38:981][  0]LogWindows:    6. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2020.12.10-04.25.38:981][  0]LogWindows:    7. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2020.12.10-04.25.38:982][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.12.10-04.25.38:982][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 5600 XT
+[2020.12.10-04.25.38:982][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.11.2 (internal:27.20.14501.18003, unified:27.20.14501.18003)
+[2020.12.10-04.25.38:982][  0]LogD3D11RHI:      Driver Date: 11-13-2020
+[2020.12.10-04.25.38:982][  0]LogRHI: Texture pool is 3632 MB (70% of 5188 MB)
+[2020.12.10-04.25.39:031][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.10-04.25.39:031][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.10-04.25.39:031][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.10-04.25.39:031][  0]LogD3D11RHI: HDR output is supported on display 0 (AMD Device: 0x0, Display: 0x0).
+[2020.12.10-04.25.39:045][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2020.12.10-04.25.39:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.10-04.25.39:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.10-04.25.39:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.10-04.25.39:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.10-04.25.39:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.10-04.25.39:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.10-04.25.39:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.10-04.25.39:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.10-04.25.39:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.10-04.25.39:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.10-04.25.39:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.10-04.25.39:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.10-04.25.39:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.10-04.25.39:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.10-04.25.39:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.10-04.25.39:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.10-04.25.39:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.10-04.25.39:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.10-04.25.39:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.10-04.25.39:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.10-04.25.39:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.10-04.25.39:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.10-04.25.39:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2020.12.10-04.25.39:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2020.12.10-04.25.39:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2020.12.10-04.25.39:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2020.12.10-04.25.39:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.10-04.25.39:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.10-04.25.39:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.10-04.25.39:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.10-04.25.39:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.10-04.25.39:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.10-04.25.39:485][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.10-04.25.39:492][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.10-04.25.39:543][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2020.12.10-04.25.39:543][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Intermediate/Shaders/WorkingDirectory/15824/).
+[2020.12.10-04.25.39:543][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/matthew/AppData/Local/Temp/UnrealShaderWorkingDir/F871DB2F419EDCE38266CF9DD3886633/'.
+[2020.12.10-04.25.39:543][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.10-04.25.39:543][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.10-04.25.40:182][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.10-04.25.40:223][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/matthew/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.10-04.25.40:223][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/matthew/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2020.12.10-04.25.40:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.10-04.25.40:223][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.10-04.25.40:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.10-04.25.40:223][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.10-04.25.40:234][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.10-04.25.40:234][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.10-04.25.40:234][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.10-04.25.40:244][  0]LogDerivedDataCache: Speed tests for C:/Users/matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2020.12.10-04.25.40:244][  0]LogDerivedDataCache: Display: Performance to C:/Users/matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1249.08MBs, RandomWriteSpeed=101.41MBs. Assigned SpeedClass 'Local'
+[2020.12.10-04.25.40:245][  0]LogDerivedDataCache: Using Local data cache path C:/Users/matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.10-04.25.40:245][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.10-04.25.40:245][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.10-04.25.40:282][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.10-04.25.40:282][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.10-04.25.40:303][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.12.10-04.25.40:493][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.10-04.25.40:494][  0]LogInit: Active device profile: [000002B224D96200][000002B223540F00 49] Windows
+[2020.12.10-04.25.40:494][  0]LogInit: Profiles: [000002B224D96200][000002B223540F00 49] Windows, [000002B224D29900][000002B223549080 49] WindowsNoEditor, [000002B224D96C00][000002B22354D200 49] WindowsServer, [000002B224D2A400][000002B223551380 49] WindowsClient, [000002B224D94F00][000002B223555500 49] IOS, [000002B224D29000][000002B223545640 49] iPadAir, [000002B224D95D00][000002B223559780 49] iPadAir2, [000002B224CD1E00][000002B2235619C0 49] IPadPro, [000002B224CD1F00][000002B22355DA00 49] iPadAir3, [000002B224D28200][000002B223569B80 49] iPadAir4, [000002B224CD2100][000002B22356DD00 49] iPadMini2, [000002B224D2A500][000002B2235701C0 49] iPadMini3, [000002B224CD1200][000002B223574340 49] iPadMini4, [000002B224D2A800][000002B2235784C0 49] iPadMini5, [000002B224CF5600][000002B223580780 49] iPhone6, [000002B224CF5700][000002B22357C7C0 49] iPodTouch6, [000002B224CD0F00][000002B223588A80 49] iPhone7, [000002B224CD0E00][000002B223584AC0 49] iPodTouch7, [000002B224CF6F00][000002B22358CC40 49] iPhone5S, [000002B224CD2A00][000002B223590DC0 49] iPhone6Plus, [000002B224CF5400][000002B223594F40 49] iPhone6S, [000002B224CD3700][000002B2235990C0 49] iPhone6SPlus, [000002B224CF4300][000002B22359D240 49] iPhone7Plus, [000002B224CD0400][000002B2235A13C0 49] iPhoneSE, [000002B224CF6200][000002B2235A5540 49] iPhone8, [000002B224CD1700][000002B223565680 49] iPhone8Plus, [000002B224CF7C00][000002B2235A97C0 49] iPhoneX, [000002B224CD2300][000002B2235AD900 49] iPhoneXS, [000002B224CF7200][000002B2235B1A40 49] iPhoneXSMax, [000002B224CD3C00][000002B2235B9BC0 49] iPhoneXR, [000002B224CF7700][000002B2235BDD40 49] iPhone11, [000002B224CD0A00][000002B222DB0200 49] iPhone11Pro, [000002B224CF6300][000002B222DB4380 49] iPhone11ProMax, [000002B224CD3A00][000002B222DB8500 49] iPhoneSE2, [000002B224CF4500][000002B222DBC680 49] iPhone12Mini, [000002B224CD2C00][000002B222DC0800 49] iPhone12, [000002B224CF5A00][000002B222DC4980 49] iPhone12Pro, [000002B224CD1900][000002B222DC8B00 49] iPhone12ProMax, [000002B224CF6500][000002B222DCCC80 49] iPadPro105, [000002B224D94100][000002B222DD0E00 49] iPadPro129, [000002B224CF6900][000002B222DD4F80 49] iPadPro97, [000002B224D96D00][000002B222DD9100 49] iPadPro2_129, [000002B224CF5900][000002B222DDD280 49] iPad5, [000002B224D96700][000002B222DE1400 49] iPad6, [000002B224CF4E00][000002B222DE5580 49] iPad7, [000002B224D95200][000002B222DE9700 49] iPad8, [000002B224CF4900][000002B2235B5840 49] iPadPro11, [000002B224D95A00][000002B222DED980 49] iPadPro2_11, [000002B224CF6E00][000002B222DF1AC0 49] iPadPro3_129, [000002B224D94200][000002B222DF9C40 49] iPadPro4_129, [000002B224CF4A00][000002B222DFC100 49] AppleTV, [000002B224D96600][000002B222E00280 49] AppleTV4K, [000002B224CF4B00][000002B222E04400 49] TVOS, [000002B224D94D00][000002B222E08580 49] Mac, [000002B224CF5B00][000002B222E0C700 49] MacClient, [000002B224D95100][000002B222E10880 49] MacNoEditor, [000002B224CF5F00][000002B222E14A00 49] MacServer, [000002B224D94700][000002B222E18B80 49] Linux, [000002B224CF6000][000002B222E1CD00 49] LinuxNoEditor, [000002B224D95F00][000002B222E32E80 49] LinuxAArch64NoEditor, [000002B224CF4D00][000002B222E37000 49] LinuxClient, [000002B224D94C00][000002B222E3B180 49] LinuxAArch64Client, [000002B224CF7500][000002B222E43300 49] LinuxServer, [000002B224D94900][000002B222E47480 49] LinuxAArch64Server, [000002B224CF6B00][000002B222E4B600 49] Android, [000002B224D96100][000002B222E4F780 49] Android_Low, [000002B224CF6700][000002B222DF58C0 49] Android_Mid, [000002B224D94B00][000002B222E53A00 49] Android_High, [000002B224CF6400][000002B222E57B40 49] Android_Default, [000002B224D94300][000002B222E5FCC0 49] Android_Adreno4xx, [000002B224CF5100][000002B222E62180 49] Android_Adreno5xx_Low, [000002B224D94500][000002B222E66300 49] Android_Adreno5xx, [000002B224CF4C00][000002B222E6A480 49] Android_Adreno6xx, [000002B224D95E00][000002B222E6E600 49] Android_Adreno6xx_Vulkan, [000002B224CF7100][000002B222EA0780 49] Android_Mali_T6xx, [000002B224D96000][000002B222EAC900 49] Android_Mali_T7xx, [000002B224D28100][000002B222EB0A80 49] Android_Mali_T8xx, [000002B224CD3900][000002B222EB4C00 49] Android_Mali_G71, [000002B224D2A300][000002B222EB8D80 49] Android_Mali_G72, [000002B224CD0800][000002B222EBCF00 49] Android_Mali_G72_Vulkan, [000002B224D2B000][000002B222EC5080 49] Android_Mali_G76, [000002B224CD1100][000002B222ED1200 49] Android_Mali_G76_Vulkan, [000002B224D2A200][000002B222EF5380 49] Android_Mali_G77, [000002B224CD0700][000002B222EF9500 49] Android_Mali_G77_Vulkan, [000002B224D2A900][000002B222F3D680 49] Android_Vulkan_SM5, [000002B224CD2200][000002B222F41800 49] Android_PowerVR_G6xxx, [000002B224D2B500][000002B222E5B940 49] Android_PowerVR_GT7xxx, [000002B224CD0500][000002B222F51A80 49] Android_PowerVR_GE8xxx, [000002B224D28800][000002B222F55BC0 49] Android_PowerVR_GM9xxx, [000002B224CD0100][000002B222F5DD00 49] Android_PowerVR_GM9xxx_Vulkan, [000002B224D28400][000002B222F6E1C0 49] Android_TegraK1, [000002B224CD2B00][000002B222F7A340 49] Android_Unknown_Vulkan, [000002B224D29500][000002B222F7E4C0 49] Lumin, [000002B224CD1800][000002B222F82640 49] Lumin_Desktop, [000002B224D28E00][000002B222F927C0 49] HoloLens, 
+[2020.12.10-04.25.40:591][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.10-04.25.40:591][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.10-04.25.40:591][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.10-04.25.40:591][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.10-04.25.40:591][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.10-04.25.40:610][  0]LogNetVersion: Dinner_Dash 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2925505618)
+[2020.12.10-04.25.40:960][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2020.12.10-04.25.41:162][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.201342 seconds
+[2020.12.10-04.25.41:167][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2020.12.10-04.25.41:167][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2020.12.10-04.25.41:167][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.10-04.25.41:482][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.10-04.25.41:485][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.10-04.25.41:744][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.10-04.25.41:791][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.10-04.25.41:791][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.10-04.25.41:811][  0]SourceControl: Source control is disabled
+[2020.12.10-04.25.41:812][  0]SourceControl: Source control is disabled
+[2020.12.10-04.25.41:814][  0]SourceControl: Source control is disabled
+[2020.12.10-04.25.41:817][  0]SourceControl: Source control is disabled
+[2020.12.10-04.25.41:826][  0]LogUProjectInfo: Found projects:
+[2020.12.10-04.25.41:828][  0]SourceControl: Source control is disabled
+[2020.12.10-04.25.41:841][  0]LogCollectionManager: Loaded 0 collections in 0.000654 seconds
+[2020.12.10-04.25.41:860][  0]LogFileCache: Scanning file cache for directory 'D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Saved/Collections/' took 0.00s
+[2020.12.10-04.25.41:860][  0]LogFileCache: Scanning file cache for directory 'D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Content/Developers/matthew/Collections/' took 0.00s
+[2020.12.10-04.25.41:860][  0]LogFileCache: Scanning file cache for directory 'D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Content/Collections/' took 0.00s
+[2020.12.10-04.25.41:860][  0]LogOcInput: OculusInput pre-init called
+[2020.12.10-04.25.41:869][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.10-04.25.41:869][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.10-04.25.41:917][  0]LogEngine: Initializing Engine...
+[2020.12.10-04.25.41:918][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.10-04.25.41:918][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.10-04.25.41:919][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.10-04.25.42:003][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.10-04.25.42:010][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.10-04.25.42:024][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2020.12.10-04.25.42:028][  0]LogAudio: Display: Audio Device Manager Initialized
+[2020.12.10-04.25.42:028][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2020.12.10-04.25.42:028][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.10-04.25.42:028][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.10-04.25.42:028][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.10-04.25.42:028][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.10-04.25.42:028][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.10-04.25.42:028][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.10-04.25.42:028][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.10-04.25.42:028][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.10-04.25.42:028][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.10-04.25.42:028][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.10-04.25.42:046][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.10-04.25.42:046][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.10-04.25.42:046][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.10-04.25.42:046][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.10-04.25.42:046][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.12.10-04.25.42:046][  0]LogAudioMixer: Display: 5: BackRight
+[2020.12.10-04.25.42:046][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.12.10-04.25.42:046][  0]LogAudioMixer: Display: 7: SideRight
+[2020.12.10-04.25.42:075][  0]LogAudioMixer: Display: Using Audio Device Speakers (THX Spatial - Synapse)
+[2020.12.10-04.25.42:075][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.10-04.25.42:077][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.10-04.25.42:077][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.10-04.25.42:078][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.10-04.25.42:078][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.10-04.25.42:078][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2020.12.10-04.25.42:079][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.10-04.25.42:079][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.10-04.25.42:079][  0]LogInit: FAudioDevice initialized.
+[2020.12.10-04.25.42:079][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.10-04.25.42:079][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.10-04.25.42:151][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/matthew/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.10-04.25.42:155][  0]LogInit: Texture streaming: Enabled
+[2020.12.10-04.25.42:167][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2020.12.10-04.25.42:172][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.10-04.25.42:172][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.10-04.25.42:179][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.10-04.25.42:222][  0]LogInit: Transaction tracking system initialized
+[2020.12.10-04.25.42:240][  0]BlueprintLog: New page: Editor Load
+[2020.12.10-04.25.42:301][  0]LocalizationService: Localization service is disabled
+[2020.12.10-04.25.42:322][  0]TimingProfiler: Initialize
+[2020.12.10-04.25.42:323][  0]TimingProfiler: OnSessionChanged
+[2020.12.10-04.25.42:323][  0]LoadingProfiler: Initialize
+[2020.12.10-04.25.42:323][  0]LoadingProfiler: OnSessionChanged
+[2020.12.10-04.25.42:323][  0]NetworkingProfiler: Initialize
+[2020.12.10-04.25.42:323][  0]NetworkingProfiler: OnSessionChanged
+[2020.12.10-04.25.42:323][  0]MemoryProfiler: Initialize
+[2020.12.10-04.25.42:323][  0]MemoryProfiler: OnSessionChanged
+[2020.12.10-04.25.42:327][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2020.12.10-04.25.42:327][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2020.12.10-04.25.42:613][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2020.12.10-04.25.42:613][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.10-04.25.42:743][  0]LogFileCache: Scanning file cache for directory 'D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Content/' took 0.02s
+[2020.12.10-04.25.42:872][  0]SourceControl: Source control is disabled
+[2020.12.10-04.25.42:873][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.215
+[2020.12.10-04.25.42:873][  0]Cmd: MAP LOAD FILE="../../../../../Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Content/Levels/DinnerDash.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.10-04.25.42:873][  0]LightingResults: New page: Lighting Build
+[2020.12.10-04.25.42:874][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.10-04.25.42:874][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.10-04.25.42:874][  0]MapCheck: New page: Map Check
+[2020.12.10-04.25.42:874][  0]LightingResults: New page: Lighting Build
+[2020.12.10-04.25.42:884][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.10-04.25.43:473][  0]LogTexture: Display: Building textures: DeprecatedTextureFA79271141B0C16E0AB806B8FE9AB1E1 (BGRA8, 128X128)
+[2020.12.10-04.25.43:498][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'DinnerDash'.
+[2020.12.10-04.25.43:499][  0]LogAIModule: Creating AISystem for world DinnerDash
+[2020.12.10-04.25.43:511][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.10-04.25.43:512][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2020.12.10-04.25.43:543][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.12.10-04.25.43:546][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.10-04.25.43:546][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2020.12.10-04.25.43:546][  0]LogFileHelpers: Loading map 'DinnerDash' took 0.674
+[2020.12.10-04.25.43:548][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.891
+[2020.12.10-04.25.43:677][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-04.25.43:682][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-04.25.43:686][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-04.25.43:690][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-04.25.43:704][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0084 seconds. Added 3601 classes and 859 folders.
+[2020.12.10-04.25.43:706][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.10-04.25.43:707][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.10-04.25.43:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.10-04.25.43:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2020.12.10-04.25.43:708][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.10-04.25.43:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.10-04.25.43:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2020.12.10-04.25.43:709][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.12.10-04.25.43:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.12.10-04.25.43:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2020.12.10-04.25.43:709][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.10-04.25.43:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.10-04.25.43:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2020.12.10-04.25.43:710][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.10-04.25.43:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.10-04.25.43:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2020.12.10-04.25.43:711][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.10-04.25.43:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.10-04.25.43:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2020.12.10-04.25.43:711][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.10-04.25.43:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.10-04.25.43:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2020.12.10-04.25.43:712][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.10-04.25.43:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.10-04.25.43:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2020.12.10-04.25.43:712][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.10-04.25.43:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.10-04.25.43:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2020.12.10-04.25.43:713][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.10-04.25.43:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.10-04.25.43:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2020.12.10-04.25.43:713][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.10-04.25.43:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.10-04.25.43:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2020.12.10-04.25.43:714][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.10-04.25.43:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.10-04.25.43:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2020.12.10-04.25.43:715][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.10-04.25.43:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.10-04.25.43:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2020.12.10-04.25.43:715][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.10-04.25.43:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.10-04.25.43:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2020.12.10-04.25.43:716][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.10-04.25.43:716][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:716][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.10-04.25.43:716][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2020.12.10-04.25.43:716][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.10-04.25.43:716][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:716][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.10-04.25.43:716][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2020.12.10-04.25.43:717][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.10-04.25.43:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.10-04.25.43:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2020.12.10-04.25.43:718][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.10-04.25.43:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.10-04.25.43:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2020.12.10-04.25.43:718][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.10-04.25.43:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.10-04.25.43:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2020.12.10-04.25.43:719][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.10-04.25.43:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.10-04.25.43:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2020.12.10-04.25.43:719][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.10-04.25.43:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.10-04.25.43:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2020.12.10-04.25.43:720][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.10-04.25.43:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.10-04.25.43:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2020.12.10-04.25.43:721][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2020.12.10-04.25.43:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2020.12.10-04.25.43:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2020.12.10-04.25.43:721][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.10-04.25.43:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.10-04.25.43:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2020.12.10-04.25.43:722][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.10-04.25.43:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.10-04.25.43:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2020.12.10-04.25.43:722][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.10-04.25.43:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.10-04.25.43:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.10-04.25.43:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2020.12.10-04.25.43:771][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.10-04.25.43:771][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2020.12.10-04.25.43:871][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.10-04.25.43:871][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2020.12.10-04.25.43:871][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2020.12.10-04.25.43:871][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2020.12.10-04.25.43:871][  0]LogLoad: (Engine Initialization) Total time: 6.21 seconds
+[2020.12.10-04.25.43:871][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.10-04.25.43:871][  0]LogInit: First time updating LLM stats...
+[2020.12.10-04.25.43:954][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.10-04.25.43:955][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.10-04.25.43:956][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.10-04.25.43:960][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.10-04.25.44:070][  1]LogRenderer: Reallocating scene render targets to support 1204x228 Format 10 NumSamples 1 (Frame:1).
+[2020.12.10-04.25.44:156][  1]LogAssetRegistry: Asset discovery search completed in 3.8537 seconds
+[2020.12.10-04.25.44:157][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.12.10-04.25.49:077][527]LogFileCache: Retrieving MD5 hashes for directory 'D:/Dinner Dash/GAD180-Group4/Dinner_Dash 4.26/Content/' took 5.19s
+[2020.12.10-04.26.55:757][ 78]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.10-04.26.56:498][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.12.10-04.26.58:185][ 78]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.10-04.26.58:200][ 78]LogUObjectGlobals: Force Deleting 216 Package(s):
+	Asset Name: /Game/Complete_Horror/Content/Ambience/Ambiences/Metal_Ambience_DEEP_LOOP_Wav.Metal_Ambience_DEEP_LOOP_Wav
+	Asset Name: /Game/Complete_Horror/Cues/Ambience/Ambiences/Metal_Ambience_DEEP_LOOP_Cue.Metal_Ambience_DEEP_LOOP_Cue
+	Asset Name: /Game/Complete_Horror/Content/Ambience/Ambiences/Metal_Ambience_LOOP_Wav.Metal_Ambience_LOOP_Wav
+	Asset Name: /Game/Complete_Horror/Cues/Ambience/Ambiences/Metal_Ambience_LOOP_Cue.Metal_Ambience_LOOP_Cue
+	Asset Name: /Game/Complete_Horror/Content/Ambience/Ambiences/Distorted_Ambience_SIMPLE_LOOP_Wav.Distorted_Ambience_SIMPLE_LOOP_Wav
+	Asset Name: /Game/Complete_Horror/Cues/Ambience/Ambiences/Distorted_Ambience_SIMPLE_LOOP_Cue.Distorted_Ambience_SIMPLE_LOOP_Cue
+	Asset Name: /Game/Complete_Horror/Content/Ambience/Danger/Enemy_Territory__SYNTH_AMBIENCE_LOOP_Wav.Enemy_Territory__SYNTH_AMBIENCE_LOOP_Wav
+	Asset Name: /Game/Complete_Horror/Cues/Ambience/Danger/Enemy_Territory__SYNTH_AMBIENCE_LOOP_Cue.Enemy_Territory__SYNTH_AMBIENCE_LOOP_Cue
+	Asset Name: /Game/Complete_Horror/Content/Ambience/Danger/Enemy_Territory_LOOP_Wav.Enemy_Territory_LOOP_Wav
+	Asset Name: /Game/Complete_Horror/Cues/Ambience/Danger/Enemy_Territory_LOOP_Cue.Enemy_Territory_LOOP_Cue
+[2020.12.10-04.26.58:203][ 78]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.10-04.27.02:279][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.02:291][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Metal_Ambience_DEEP_LOOP_Wav.Metal_Ambience_DEEP_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Metal_Ambience_DEEP_LOOP_Wav.Metal_Ambience_DEEP_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Metal_Ambience_DEEP_LOOP_Cue.Metal_Ambience_DEEP_LOOP_Cue:SoundNodeWavePlayer_45 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.02:292][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Metal_Ambience_DEEP_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.03:534][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.03:541][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Metal_Ambience_LOOP_Wav.Metal_Ambience_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Metal_Ambience_LOOP_Wav.Metal_Ambience_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Metal_Ambience_LOOP_Cue.Metal_Ambience_LOOP_Cue:SoundNodeWavePlayer_46 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.03:541][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Metal_Ambience_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.04:761][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.04:774][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Distorted_Ambience_SIMPLE_LOOP_Wav.Distorted_Ambience_SIMPLE_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Distorted_Ambience_SIMPLE_LOOP_Wav.Distorted_Ambience_SIMPLE_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Distorted_Ambience_SIMPLE_LOOP_Cue.Distorted_Ambience_SIMPLE_LOOP_Cue:SoundNodeWavePlayer_14 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.04:774][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Distorted_Ambience_SIMPLE_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.06:204][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.06:208][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Enemy_Territory__SYNTH_AMBIENCE_LOOP_Wav.Enemy_Territory__SYNTH_AMBIENCE_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Enemy_Territory__SYNTH_AMBIENCE_LOOP_Wav.Enemy_Territory__SYNTH_AMBIENCE_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Danger/Enemy_Territory__SYNTH_AMBIENCE_LOOP_Cue.Enemy_Territory__SYNTH_AMBIENCE_LOOP_Cue:SoundNodeWavePlayer_19 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.06:208][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Enemy_Territory__SYNTH_AMBIENCE_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.07:737][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.07:740][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Enemy_Territory_LOOP_Wav.Enemy_Territory_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Enemy_Territory_LOOP_Wav.Enemy_Territory_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Danger/Enemy_Territory_LOOP_Cue.Enemy_Territory_LOOP_Cue:SoundNodeWavePlayer_20 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.07:740][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Enemy_Territory_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.08:381][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.08:391][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Rising_Danger_LOOP_Wav.Rising_Danger_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Rising_Danger_LOOP_Wav.Rising_Danger_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Danger/Rising_Danger_LOOP_Cue.Rising_Danger_LOOP_Cue:SoundNodeWavePlayer_81 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.08:391][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Rising_Danger_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.08:918][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.08:925][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Drum_Danger_LOOP_Wav.Drum_Danger_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Drum_Danger_LOOP_Wav.Drum_Danger_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Danger/Drum_Danger_LOOP_Cue.Drum_Danger_LOOP_Cue:SoundNodeWavePlayer_17 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.08:925][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Drum_Danger_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.10:535][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.10:541][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Creepy_Ambience_MINIMAL_LOOP_Wav.Creepy_Ambience_MINIMAL_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Creepy_Ambience_MINIMAL_LOOP_Wav.Creepy_Ambience_MINIMAL_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Creepy_Ambience_MINIMAL_LOOP_Cue.Creepy_Ambience_MINIMAL_LOOP_Cue:SoundNodeWavePlayer_3 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.10:542][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Creepy_Ambience_MINIMAL_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.11:136][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.11:141][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Creepy_Ambience_MUSICAL_LOOP_Wav.Creepy_Ambience_MUSICAL_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Creepy_Ambience_MUSICAL_LOOP_Wav.Creepy_Ambience_MUSICAL_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Creepy_Ambience_MUSICAL_LOOP_Cue.Creepy_Ambience_MUSICAL_LOOP_Cue:SoundNodeWavePlayer_4 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.11:141][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Creepy_Ambience_MUSICAL_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.12:535][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.12:541][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Demonic_Ambience_LOOP_Wav.Demonic_Ambience_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Demonic_Ambience_LOOP_Wav.Demonic_Ambience_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Demonic_Ambience_LOOP_Cue.Demonic_Ambience_LOOP_Cue:SoundNodeWavePlayer_11 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.12:541][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Demonic_Ambience_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.13:609][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.13:624][ 78]Message dialog closed, result: Cancel, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Demonic_Ambience_Wav.Demonic_Ambience_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Demonic_Ambience_Wav.Demonic_Ambience_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Demonic_Ambience_Cue.Demonic_Ambience_Cue:SoundNodeWavePlayer_10 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.13:624][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Demonic_Ambience_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.14:523][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.14:541][ 78]Message dialog closed, result: Cancel, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Distorted_Ambience_DETAILED_LOOP_Wav.Distorted_Ambience_DETAILED_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Distorted_Ambience_DETAILED_LOOP_Wav.Distorted_Ambience_DETAILED_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Distorted_Ambience_DETAILED_LOOP_Cue.Distorted_Ambience_DETAILED_LOOP_Cue:SoundNodeWavePlayer_13 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.14:541][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Distorted_Ambience_DETAILED_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.17:936][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.17:940][ 78]Message dialog closed, result: Cancel, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Mystery_Ambience_LOOP_Wav.Mystery_Ambience_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Mystery_Ambience_LOOP_Wav.Mystery_Ambience_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Mystery_Ambience_LOOP_Cue.Mystery_Ambience_LOOP_Cue:SoundNodeWavePlayer_59 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.17:940][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Mystery_Ambience_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.18:703][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.18:707][ 78]Message dialog closed, result: Cancel, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Mystery_Ambience_Wav.Mystery_Ambience_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Mystery_Ambience_Wav.Mystery_Ambience_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Mystery_Ambience_Cue.Mystery_Ambience_Cue:SoundNodeWavePlayer_58 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.18:707][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Mystery_Ambience_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.22:274][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.22:290][ 78]Message dialog closed, result: Cancel, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Ominous_Ambience_LOOP_Wav.Ominous_Ambience_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Ominous_Ambience_LOOP_Wav.Ominous_Ambience_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Ominous_Ambience_LOOP_Cue.Ominous_Ambience_LOOP_Cue:SoundNodeWavePlayer_66 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.22:291][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Ominous_Ambience_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.22:947][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.22:957][ 78]Message dialog closed, result: Cancel, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Orchestral_Ambience_LOOP_Wav.Orchestral_Ambience_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Orchestral_Ambience_LOOP_Wav.Orchestral_Ambience_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Orchestral_Ambience_LOOP_Cue.Orchestral_Ambience_LOOP_Cue:SoundNodeWavePlayer_68 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.22:957][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Orchestral_Ambience_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.23:498][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.23:507][ 78]Message dialog closed, result: Cancel, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Pulsing_Ambience_LOOP_Wav.Pulsing_Ambience_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Pulsing_Ambience_LOOP_Wav.Pulsing_Ambience_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Pulsing_Ambience_LOOP_Cue.Pulsing_Ambience_LOOP_Cue:SoundNodeWavePlayer_74 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.23:507][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Pulsing_Ambience_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.25:802][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.25:806][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Pulsing_Ambience_Wav.Pulsing_Ambience_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Pulsing_Ambience_Wav.Pulsing_Ambience_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Pulsing_Ambience_Cue.Pulsing_Ambience_Cue:SoundNodeWavePlayer_73 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.25:807][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Pulsing_Ambience_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.26:552][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.26:557][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Reverse_Ambience_LOOP_NO_BED_Wav.Reverse_Ambience_LOOP_NO_BED_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Reverse_Ambience_LOOP_NO_BED_Wav.Reverse_Ambience_LOOP_NO_BED_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Reverse_Ambience_LOOP_NO_BED_Cue.Reverse_Ambience_LOOP_NO_BED_Cue:SoundNodeWavePlayer_79 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.26:557][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Reverse_Ambience_LOOP_NO_BED_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.27:133][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.27:140][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Reverse_Ambience_LOOP_Wav.Reverse_Ambience_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Reverse_Ambience_LOOP_Wav.Reverse_Ambience_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Reverse_Ambience_LOOP_Cue.Reverse_Ambience_LOOP_Cue:SoundNodeWavePlayer_78 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.27:140][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Reverse_Ambience_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.27:838][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.27:857][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Shimmering_Horror_Ambience_LOOP_Wav.Shimmering_Horror_Ambience_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Shimmering_Horror_Ambience_LOOP_Wav.Shimmering_Horror_Ambience_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Shimmering_Horror_Ambience_LOOP_Cue.Shimmering_Horror_Ambience_LOOP_Cue:SoundNodeWavePlayer_85 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.27:857][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Shimmering_Horror_Ambience_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.28:366][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.28:374][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Sinister_Ambience_LOOP_Wav.Sinister_Ambience_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Sinister_Ambience_LOOP_Wav.Sinister_Ambience_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Sinister_Ambience_LOOP_Cue.Sinister_Ambience_LOOP_Cue:SoundNodeWavePlayer_89 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.28:374][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Sinister_Ambience_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.29:068][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.29:074][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Surreal_Darkness_LOOP_Wav.Surreal_Darkness_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Surreal_Darkness_LOOP_Wav.Surreal_Darkness_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Surreal_Darkness_LOOP_Cue.Surreal_Darkness_LOOP_Cue:SoundNodeWavePlayer_94 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.29:074][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Surreal_Darkness_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.29:442][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.29:457][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Synth_Ambience_LOOP_Wav.Synth_Ambience_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Ambiences/Synth_Ambience_LOOP_Wav.Synth_Ambience_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Ambiences/Synth_Ambience_LOOP_Cue.Synth_Ambience_LOOP_Cue:SoundNodeWavePlayer_95 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.29:457][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Synth_Ambience_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.29:775][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.29:790][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Relentless_Danger_LOOP_Wav.Relentless_Danger_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Relentless_Danger_LOOP_Wav.Relentless_Danger_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Danger/Relentless_Danger_LOOP_Cue.Relentless_Danger_LOOP_Cue:SoundNodeWavePlayer_77 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.29:790][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Relentless_Danger_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.30:503][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.30:507][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Slow_Danger_LOOP_Wav.Slow_Danger_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Slow_Danger_LOOP_Wav.Slow_Danger_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Danger/Slow_Danger_LOOP_Cue.Slow_Danger_LOOP_Cue:SoundNodeWavePlayer_91 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.30:507][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Slow_Danger_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.31:337][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.31:341][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Slow_Danger_Wav.Slow_Danger_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Danger/Slow_Danger_Wav.Slow_Danger_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Danger/Slow_Danger_Cue.Slow_Danger_Cue:SoundNodeWavePlayer_90 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.31:341][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Slow_Danger_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.35:165][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.35:173][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Choir_Ambience_LOOP_Wav.Choir_Ambience_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Choir_Ambience_LOOP_Wav.Choir_Ambience_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Choir_Ambience_LOOP_Cue.Choir_Ambience_LOOP_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.35:173][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Choir_Ambience_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.36:022][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.36:040][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Choir_Ambience_Wav.Choir_Ambience_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Choir_Ambience_Wav.Choir_Ambience_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Choir_Ambience_Cue.Choir_Ambience_Cue:SoundNodeWavePlayer_1 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.36:040][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Choir_Ambience_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.43:374][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.43:390][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Creepy_Music_Box_LOOP_Wav.Creepy_Music_Box_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Creepy_Music_Box_LOOP_Wav.Creepy_Music_Box_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Creepy_Music_Box_LOOP_Cue.Creepy_Music_Box_LOOP_Cue:SoundNodeWavePlayer_6 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.43:391][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Creepy_Music_Box_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.43:947][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.43:956][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Creepy_Music_Box_Wav.Creepy_Music_Box_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Creepy_Music_Box_Wav.Creepy_Music_Box_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Creepy_Music_Box_Cue.Creepy_Music_Box_Cue:SoundNodeWavePlayer_5 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.43:956][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Creepy_Music_Box_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.44:465][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.44:473][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_LOOP_Wav.Loneliness_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_LOOP_Wav.Loneliness_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Loneliness_LOOP_Cue.Loneliness_LOOP_Cue:SoundNodeWavePlayer_38 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.44:474][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Loneliness_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.45:714][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.45:723][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_Minimal_LOOP_Wav.Loneliness_Minimal_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_Minimal_LOOP_Wav.Loneliness_Minimal_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Loneliness_Minimal_LOOP_Cue.Loneliness_Minimal_LOOP_Cue:SoundNodeWavePlayer_40 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.45:723][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Loneliness_Minimal_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.47:097][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.47:106][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_Minimal_Wav.Loneliness_Minimal_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_Minimal_Wav.Loneliness_Minimal_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Loneliness_Minimal_Cue.Loneliness_Minimal_Cue:SoundNodeWavePlayer_39 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.47:106][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Loneliness_Minimal_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.48:448][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.48:456][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_Wav.Loneliness_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_Wav.Loneliness_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Loneliness_Cue.Loneliness_Cue:SoundNodeWavePlayer_37 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.48:456][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Loneliness_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.48:981][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.48:990][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Lonely_House_LOOP_Wav.Lonely_House_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Lonely_House_LOOP_Wav.Lonely_House_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Lonely_House_LOOP_Cue.Lonely_House_LOOP_Cue:SoundNodeWavePlayer_42 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.48:990][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Lonely_House_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.50:180][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.50:190][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Lonely_House_VERSE_LOOP_Wav.Lonely_House_VERSE_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Lonely_House_VERSE_LOOP_Wav.Lonely_House_VERSE_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Lonely_House_VERSE_LOOP_Cue.Lonely_House_VERSE_LOOP_Cue:SoundNodeWavePlayer_43 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.50:190][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Lonely_House_VERSE_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.51:122][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.51:140][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Lonely_House_Wav.Lonely_House_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Lonely_House_Wav.Lonely_House_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Lonely_House_Cue.Lonely_House_Cue:SoundNodeWavePlayer_41 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.51:140][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Lonely_House_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.52:785][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.52:789][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_LOOP_Wav.Music_Box_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_LOOP_Wav.Music_Box_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Music_Box_LOOP_Cue.Music_Box_LOOP_Cue:SoundNodeWavePlayer_52 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.52:789][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Music_Box_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.53:278][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.53:290][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Wav.Music_Box_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Wav.Music_Box_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Music_Box_Cue.Music_Box_Cue:SoundNodeWavePlayer_50 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.53:290][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Music_Box_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.53:808][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.53:823][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Short_Mystery_LOOP_Wav.Short_Mystery_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Short_Mystery_LOOP_Wav.Short_Mystery_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Short_Mystery_LOOP_Cue.Short_Mystery_LOOP_Cue:SoundNodeWavePlayer_86 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.53:823][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Short_Mystery_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.55:162][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.55:173][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Very_Sparse_Piano_LOOP_NO_BED_Wav.Very_Sparse_Piano_LOOP_NO_BED_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Very_Sparse_Piano_LOOP_NO_BED_Wav.Very_Sparse_Piano_LOOP_NO_BED_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Very_Sparse_Piano_LOOP_NO_BED_Cue.Very_Sparse_Piano_LOOP_NO_BED_Cue:SoundNodeWavePlayer_106 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.55:173][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Very_Sparse_Piano_LOOP_NO_BED_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.56:174][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.56:190][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Very_Sparse_Piano_LOOP_Wav.Very_Sparse_Piano_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Very_Sparse_Piano_LOOP_Wav.Very_Sparse_Piano_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Very_Sparse_Piano_LOOP_Cue.Very_Sparse_Piano_LOOP_Cue:SoundNodeWavePlayer_105 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.56:190][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Very_Sparse_Piano_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.56:986][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.56:990][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Very_Sparse_Piano_Wav.Very_Sparse_Piano_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Very_Sparse_Piano_Wav.Very_Sparse_Piano_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Very_Sparse_Piano_Cue.Very_Sparse_Piano_Cue:SoundNodeWavePlayer_104 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.56:990][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Very_Sparse_Piano_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.58:007][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.58:024][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_DIEGETIC_NO_FX_Wav.Music_Box_DIEGETIC_NO_FX_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_DIEGETIC_NO_FX_Wav.Music_Box_DIEGETIC_NO_FX_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Music_Box_Edits/Music_Box_DIEGETIC_NO_FX_Cue.Music_Box_DIEGETIC_NO_FX_Cue:SoundNodeWavePlayer_51 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.58:024][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Music_Box_DIEGETIC_NO_FX_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.58:665][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.58:673][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_MINIMAL_LOOP_Wav.Music_Box_MINIMAL_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_MINIMAL_LOOP_Wav.Music_Box_MINIMAL_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Music_Box_Edits/Music_Box_MINIMAL_LOOP_Cue.Music_Box_MINIMAL_LOOP_Cue:SoundNodeWavePlayer_54 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.58:673][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Music_Box_MINIMAL_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.27.59:382][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.27.59:390][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_MINIMAL_Wav.Music_Box_MINIMAL_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_MINIMAL_Wav.Music_Box_MINIMAL_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Music_Box_Edits/Music_Box_MINIMAL_Cue.Music_Box_MINIMAL_Cue:SoundNodeWavePlayer_53 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.27.59:390][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Music_Box_MINIMAL_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.00:273][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.00:290][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_SIMPLE_LOOP_NO_REVERB_Wav.Music_Box_SIMPLE_LOOP_NO_REVERB_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_SIMPLE_LOOP_NO_REVERB_Wav.Music_Box_SIMPLE_LOOP_NO_REVERB_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Music_Box_Edits/Music_Box_SIMPLE_LOOP_NO_REVERB_Cue.Music_Box_SIMPLE_LOOP_NO_REVERB_Cue:SoundNodeWavePlayer_56 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.00:290][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Music_Box_SIMPLE_LOOP_NO_REVERB_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.01:102][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.01:106][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_SIMPLE_LOOP_Wav.Music_Box_SIMPLE_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_SIMPLE_LOOP_Wav.Music_Box_SIMPLE_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Ambience/Musical/Music_Box_Edits/Music_Box_SIMPLE_LOOP_Cue.Music_Box_SIMPLE_LOOP_Cue:SoundNodeWavePlayer_55 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.01:106][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Music_Box_SIMPLE_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.01:922][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.01:940][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Dark_Empty_LOOP_Wav.Dark_Empty_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Dark_Empty_LOOP_Wav.Dark_Empty_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Dark_Empty_LOOP_Cue.Dark_Empty_LOOP_Cue:SoundNodeWavePlayer_7 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.01:940][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Dark_Empty_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.02:939][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.02:956][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Draughty_House_Loop_Wav.Draughty_House_Loop_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Draughty_House_Loop_Wav.Draughty_House_Loop_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Draughty_House_Loop_Cue.Draughty_House_Loop_Cue:SoundNodeWavePlayer_15 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.02:956][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Draughty_House_Loop_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.03:769][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.03:772][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_LOOP_120bpm_Stressed_Wav.Heartbeat_LOOP_120bpm_Stressed_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_LOOP_120bpm_Stressed_Wav.Heartbeat_LOOP_120bpm_Stressed_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heartbeat_LOOP_120bpm_Stressed_Cue.Heartbeat_LOOP_120bpm_Stressed_Cue:SoundNodeWavePlayer_22 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.03:772][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heartbeat_LOOP_120bpm_Stressed_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.04:602][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.04:606][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_LOOP_180bpm_Terrified_Wav.Heartbeat_LOOP_180bpm_Terrified_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_LOOP_180bpm_Terrified_Wav.Heartbeat_LOOP_180bpm_Terrified_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heartbeat_LOOP_180bpm_Terrified_Cue.Heartbeat_LOOP_180bpm_Terrified_Cue:SoundNodeWavePlayer_23 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.04:606][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heartbeat_LOOP_180bpm_Terrified_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.05:317][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.05:322][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_LOOP_70bpm_Normal_Wav.Heartbeat_LOOP_70bpm_Normal_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_LOOP_70bpm_Normal_Wav.Heartbeat_LOOP_70bpm_Normal_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heartbeat_LOOP_70bpm_Normal_Cue.Heartbeat_LOOP_70bpm_Normal_Cue:SoundNodeWavePlayer_24 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.05:322][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heartbeat_LOOP_70bpm_Normal_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.05:762][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.05:772][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_LOOP_90bpm_Elevated_Wav.Heartbeat_LOOP_90bpm_Elevated_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_LOOP_90bpm_Elevated_Wav.Heartbeat_LOOP_90bpm_Elevated_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heartbeat_LOOP_90bpm_Elevated_Cue.Heartbeat_LOOP_90bpm_Elevated_Cue:SoundNodeWavePlayer_25 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.05:772][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heartbeat_LOOP_90bpm_Elevated_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.06:653][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.06:656][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_SINGLE_1_Wav.Heartbeat_SINGLE_1_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_SINGLE_1_Wav.Heartbeat_SINGLE_1_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heartbeat_SINGLE_1_Cue.Heartbeat_SINGLE_1_Cue:SoundNodeWavePlayer_26 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.06:656][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heartbeat_SINGLE_1_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.07:009][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.07:022][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_SINGLE_2_Wav.Heartbeat_SINGLE_2_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_SINGLE_2_Wav.Heartbeat_SINGLE_2_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heartbeat_SINGLE_2_Cue.Heartbeat_SINGLE_2_Cue:SoundNodeWavePlayer_27 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.07:022][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heartbeat_SINGLE_2_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.07:326][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.07:340][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_SINGLE_3_Wav.Heartbeat_SINGLE_3_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_SINGLE_3_Wav.Heartbeat_SINGLE_3_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heartbeat_SINGLE_3_Cue.Heartbeat_SINGLE_3_Cue:SoundNodeWavePlayer_28 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.07:340][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heartbeat_SINGLE_3_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.07:659][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.07:673][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_SINGLE_4_Wav.Heartbeat_SINGLE_4_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_SINGLE_4_Wav.Heartbeat_SINGLE_4_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heartbeat_SINGLE_4_Cue.Heartbeat_SINGLE_4_Cue:SoundNodeWavePlayer_29 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.07:673][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heartbeat_SINGLE_4_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.08:009][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.08:022][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_SINGLE_5_Wav.Heartbeat_SINGLE_5_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heartbeat_SINGLE_5_Wav.Heartbeat_SINGLE_5_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heartbeat_SINGLE_5_Cue.Heartbeat_SINGLE_5_Cue:SoundNodeWavePlayer_30 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.08:022][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heartbeat_SINGLE_5_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.09:006][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.09:023][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heavy_Rain_and_Thunder_LOOP_Wav.Heavy_Rain_and_Thunder_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heavy_Rain_and_Thunder_LOOP_Wav.Heavy_Rain_and_Thunder_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heavy_Rain_and_Thunder_LOOP_Cue.Heavy_Rain_and_Thunder_LOOP_Cue:SoundNodeWavePlayer_31 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.09:023][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heavy_Rain_and_Thunder_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.09:375][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.09:389][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heavy_Rain_from_Indoors_LOOP_Wav.Heavy_Rain_from_Indoors_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heavy_Rain_from_Indoors_LOOP_Wav.Heavy_Rain_from_Indoors_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heavy_Rain_from_Indoors_LOOP_Cue.Heavy_Rain_from_Indoors_LOOP_Cue:SoundNodeWavePlayer_32 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.09:389][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heavy_Rain_from_Indoors_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.10:220][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.10:223][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Heavy_Rain_LOOP_Wav.Heavy_Rain_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Heavy_Rain_LOOP_Wav.Heavy_Rain_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Heavy_Rain_LOOP_Cue.Heavy_Rain_LOOP_Cue:SoundNodeWavePlayer_33 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.10:223][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Heavy_Rain_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.10:611][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.10:623][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Low_Rumble_LOOP_Wav.Low_Rumble_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Low_Rumble_LOOP_Wav.Low_Rumble_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Low_Rumble_LOOP_Cue.Low_Rumble_LOOP_Cue:SoundNodeWavePlayer_44 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.10:623][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Low_Rumble_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.10:960][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.10:973][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Rain_on_WIndow_LOOP_Wav.Rain_on_WIndow_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Rain_on_WIndow_LOOP_Wav.Rain_on_WIndow_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Rain_on_WIndow_LOOP_Cue.Rain_on_WIndow_LOOP_Cue:SoundNodeWavePlayer_76 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.10:973][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Rain_on_WIndow_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.11:345][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.11:356][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Storm_PREPARED_LOOP_Wav.Storm_PREPARED_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Storm_PREPARED_LOOP_Wav.Storm_PREPARED_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Storm_PREPARED_LOOP_Cue.Storm_PREPARED_LOOP_Cue:SoundNodeWavePlayer_93 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.11:356][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Storm_PREPARED_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.11:714][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.11:722][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Thunder_1_Wav.Thunder_1_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Thunder_1_Wav.Thunder_1_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Thunder_1_Cue.Thunder_1_Cue:SoundNodeWavePlayer_96 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.11:722][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Thunder_1_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.12:111][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.12:123][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Thunder_2_Wav.Thunder_2_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Thunder_2_Wav.Thunder_2_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Thunder_2_Cue.Thunder_2_Cue:SoundNodeWavePlayer_97 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.12:123][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Thunder_2_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.12:476][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.12:489][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Thunder_3_Wav.Thunder_3_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Thunder_3_Wav.Thunder_3_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Thunder_3_Cue.Thunder_3_Cue:SoundNodeWavePlayer_98 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.12:490][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Thunder_3_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.12:825][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.12:840][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Thunder_4_Wav.Thunder_4_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Thunder_4_Wav.Thunder_4_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Thunder_4_Cue.Thunder_4_Cue:SoundNodeWavePlayer_99 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.12:840][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Thunder_4_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.13:176][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.13:190][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Thunder_5_Wav.Thunder_5_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Thunder_5_Wav.Thunder_5_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Thunder_5_Cue.Thunder_5_Cue:SoundNodeWavePlayer_100 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.13:190][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Thunder_5_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.13:545][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.13:556][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Thunder_6_Wav.Thunder_6_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Thunder_6_Wav.Thunder_6_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Thunder_6_Cue.Thunder_6_Cue:SoundNodeWavePlayer_101 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.13:556][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Thunder_6_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.13:893][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.13:906][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Thunder_7_Wav.Thunder_7_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Thunder_7_Wav.Thunder_7_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Thunder_7_Cue.Thunder_7_Cue:SoundNodeWavePlayer_102 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.13:906][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Thunder_7_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.14:278][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.14:289][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Effects/Whispering_LOOP_Wav.Whispering_LOOP_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Effects/Whispering_LOOP_Wav.Whispering_LOOP_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Effects/Whispering_LOOP_Cue.Whispering_LOOP_Cue:SoundNodeWavePlayer_107 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.14:289][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Whispering_LOOP_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.14:609][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.14:622][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Broken_Violin_SCARE_Wav.Broken_Violin_SCARE_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Broken_Violin_SCARE_Wav.Broken_Violin_SCARE_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Broken_Violin_SCARE_Cue.Broken_Violin_SCARE_Cue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.14:622][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Broken_Violin_SCARE_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.14:994][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.15:006][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Deep_Drum_SCARE_Wav.Deep_Drum_SCARE_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Deep_Drum_SCARE_Wav.Deep_Drum_SCARE_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Deep_Drum_SCARE_Cue.Deep_Drum_SCARE_Cue:SoundNodeWavePlayer_8 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.15:006][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Deep_Drum_SCARE_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.15:377][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.15:390][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Deep_RISER_Wav.Deep_RISER_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Deep_RISER_Wav.Deep_RISER_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Deep_RISER_Cue.Deep_RISER_Cue:SoundNodeWavePlayer_9 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.15:390][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Deep_RISER_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.15:760][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.15:773][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Distant_RISER_Wav.Distant_RISER_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Distant_RISER_Wav.Distant_RISER_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Distant_RISER_Cue.Distant_RISER_Cue:SoundNodeWavePlayer_12 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.15:773][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Distant_RISER_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.16:161][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.16:172][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Drum_and_Cymbal_SCARE_Wav.Drum_and_Cymbal_SCARE_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Drum_and_Cymbal_SCARE_Wav.Drum_and_Cymbal_SCARE_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Drum_and_Cymbal_SCARE_Cue.Drum_and_Cymbal_SCARE_Cue:SoundNodeWavePlayer_16 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.16:172][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Drum_and_Cymbal_SCARE_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.16:560][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.16:573][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Echo_Riser_Wav.Echo_Riser_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Echo_Riser_Wav.Echo_Riser_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Echo_Riser_Cue.Echo_Riser_Cue:SoundNodeWavePlayer_18 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.16:573][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Echo_Riser_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.16:927][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.16:940][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Hammered_Piano_SCARE_Wav.Hammered_Piano_SCARE_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Hammered_Piano_SCARE_Wav.Hammered_Piano_SCARE_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Hammered_Piano_SCARE_Cue.Hammered_Piano_SCARE_Cue:SoundNodeWavePlayer_21 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.16:940][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Hammered_Piano_SCARE_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.17:311][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.17:322][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Large_Cymbal_SCARE_Wav.Large_Cymbal_SCARE_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Large_Cymbal_SCARE_Wav.Large_Cymbal_SCARE_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Large_Cymbal_SCARE_Cue.Large_Cymbal_SCARE_Cue:SoundNodeWavePlayer_36 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.17:322][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Large_Cymbal_SCARE_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.17:659][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.17:673][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Metallic_RISER_1_Wav.Metallic_RISER_1_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Metallic_RISER_1_Wav.Metallic_RISER_1_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Metallic_RISER_1_Cue.Metallic_RISER_1_Cue:SoundNodeWavePlayer_47 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.17:673][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Metallic_RISER_1_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.18:026][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.18:039][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Metallic_RISER_2_Wav.Metallic_RISER_2_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Metallic_RISER_2_Wav.Metallic_RISER_2_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Metallic_RISER_2_Cue.Metallic_RISER_2_Cue:SoundNodeWavePlayer_48 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.18:039][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Metallic_RISER_2_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.18:376][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.18:389][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Metallic_SCARE_Wav.Metallic_SCARE_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Metallic_SCARE_Wav.Metallic_SCARE_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Metallic_SCARE_Cue.Metallic_SCARE_Cue:SoundNodeWavePlayer_49 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.18:389][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Metallic_SCARE_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.18:744][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.18:755][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Piercing_SCARE_Wav.Piercing_SCARE_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Piercing_SCARE_Wav.Piercing_SCARE_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Piercing_SCARE_Cue.Piercing_SCARE_Cue:SoundNodeWavePlayer_72 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.18:755][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Piercing_SCARE_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.19:107][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.19:122][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Quick_SCARE_Wav.Quick_SCARE_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Quick_SCARE_Wav.Quick_SCARE_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Quick_SCARE_Cue.Quick_SCARE_Cue:SoundNodeWavePlayer_75 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.19:122][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Quick_SCARE_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.19:494][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.19:505][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Scratching_SCARE_Wav.Scratching_SCARE_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Scratching_SCARE_Wav.Scratching_SCARE_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Scratching_SCARE_Cue.Scratching_SCARE_Cue:SoundNodeWavePlayer_84 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.19:506][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Scratching_SCARE_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.19:893][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.19:906][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Scratch_SCARE_1_Wav.Scratch_SCARE_1_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Scratch_SCARE_1_Wav.Scratch_SCARE_1_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Scratch_SCARE_1_Cue.Scratch_SCARE_1_Cue:SoundNodeWavePlayer_82 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.19:906][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Scratch_SCARE_1_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.20:275][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.20:289][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Scratch_SCARE_2_Wav.Scratch_SCARE_2_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Scratch_SCARE_2_Wav.Scratch_SCARE_2_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Scratch_SCARE_2_Cue.Scratch_SCARE_2_Cue:SoundNodeWavePlayer_83 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.20:289][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Scratch_SCARE_2_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.20:677][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.20:689][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Simple_Boom_RISER_1_Wav.Simple_Boom_RISER_1_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Simple_Boom_RISER_1_Wav.Simple_Boom_RISER_1_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Simple_Boom_RISER_1_Cue.Simple_Boom_RISER_1_Cue:SoundNodeWavePlayer_87 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.20:689][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Simple_Boom_RISER_1_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.21:074][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.21:089][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Simple_Boom_RISER_2_Wav.Simple_Boom_RISER_2_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Simple_Boom_RISER_2_Wav.Simple_Boom_RISER_2_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Simple_Boom_RISER_2_Cue.Simple_Boom_RISER_2_Cue:SoundNodeWavePlayer_88 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.21:089][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Simple_Boom_RISER_2_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.21:478][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.21:488][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Slow_Scratch_RISER_Wav.Slow_Scratch_RISER_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Slow_Scratch_RISER_Wav.Slow_Scratch_RISER_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Slow_Scratch_RISER_Cue.Slow_Scratch_RISER_Cue:SoundNodeWavePlayer_92 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.21:489][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Slow_Scratch_RISER_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.21:859][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.21:873][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Scares/Uneasy_Hit_Wav.Uneasy_Hit_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Scares/Uneasy_Hit_Wav.Uneasy_Hit_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Scares/Uneasy_Hit_Cue.Uneasy_Hit_Cue:SoundNodeWavePlayer_103 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.21:873][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Uneasy_Hit_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.22:258][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.22:273][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Horror_BUILD_UP_1_Wav.Horror_BUILD_UP_1_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Horror_BUILD_UP_1_Wav.Horror_BUILD_UP_1_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Horror_BUILD_UP_1_Cue.Horror_BUILD_UP_1_Cue:SoundNodeWavePlayer_34 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.22:273][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Horror_BUILD_UP_1_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.22:658][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.22:672][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Horror_BUILD_UP_2_Wav.Horror_BUILD_UP_2_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Horror_BUILD_UP_2_Wav.Horror_BUILD_UP_2_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Horror_BUILD_UP_2_Cue.Horror_BUILD_UP_2_Cue:SoundNodeWavePlayer_35 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.22:672][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Horror_BUILD_UP_2_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.23:034][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.23:039][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Mysterious_AREA_INTRO_Wav.Mysterious_AREA_INTRO_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Mysterious_AREA_INTRO_Wav.Mysterious_AREA_INTRO_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Mysterious_AREA_INTRO_Cue.Mysterious_AREA_INTRO_Cue:SoundNodeWavePlayer_57 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.23:039][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Mysterious_AREA_INTRO_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.23:428][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.23:440][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_1_Wav.Mystery_Pluck_1_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_1_Wav.Mystery_Pluck_1_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Mystery_Pluck_1_Cue.Mystery_Pluck_1_Cue:SoundNodeWavePlayer_60 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.23:440][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Mystery_Pluck_1_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.23:827][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.23:840][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_2_Wav.Mystery_Pluck_2_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_2_Wav.Mystery_Pluck_2_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Mystery_Pluck_2_Cue.Mystery_Pluck_2_Cue:SoundNodeWavePlayer_61 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.23:840][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Mystery_Pluck_2_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.24:194][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.24:206][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_3_Wav.Mystery_Pluck_3_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_3_Wav.Mystery_Pluck_3_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Mystery_Pluck_3_Cue.Mystery_Pluck_3_Cue:SoundNodeWavePlayer_62 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.24:206][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Mystery_Pluck_3_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.24:575][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.24:589][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_4_Wav.Mystery_Pluck_4_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_4_Wav.Mystery_Pluck_4_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Mystery_Pluck_4_Cue.Mystery_Pluck_4_Cue:SoundNodeWavePlayer_63 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.24:589][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Mystery_Pluck_4_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.24:976][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.24:989][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_5_Wav.Mystery_Pluck_5_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_5_Wav.Mystery_Pluck_5_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Mystery_Pluck_5_Cue.Mystery_Pluck_5_Cue:SoundNodeWavePlayer_64 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.24:989][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Mystery_Pluck_5_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.25:392][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.25:406][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_6_Wav.Mystery_Pluck_6_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Mystery_Pluck_6_Wav.Mystery_Pluck_6_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Mystery_Pluck_6_Cue.Mystery_Pluck_6_Cue:SoundNodeWavePlayer_65 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.25:406][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Mystery_Pluck_6_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.25:787][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.25:806][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Ominous_AREA_INTRO_Wav.Ominous_AREA_INTRO_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Ominous_AREA_INTRO_Wav.Ominous_AREA_INTRO_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Ominous_AREA_INTRO_Cue.Ominous_AREA_INTRO_Cue:SoundNodeWavePlayer_67 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.25:806][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Ominous_AREA_INTRO_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.27:133][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.27:139][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Orchestral_Horror_AREA_INTRO_1_Wav.Orchestral_Horror_AREA_INTRO_1_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Orchestral_Horror_AREA_INTRO_1_Wav.Orchestral_Horror_AREA_INTRO_1_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Orchestral_Horror_AREA_INTRO_1_Cue.Orchestral_Horror_AREA_INTRO_1_Cue:SoundNodeWavePlayer_69 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.27:139][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Orchestral_Horror_AREA_INTRO_1_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.27:564][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.27:572][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Orchestral_Horror_AREA_INTRO_2_Wav.Orchestral_Horror_AREA_INTRO_2_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Orchestral_Horror_AREA_INTRO_2_Wav.Orchestral_Horror_AREA_INTRO_2_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Orchestral_Horror_AREA_INTRO_2_Cue.Orchestral_Horror_AREA_INTRO_2_Cue:SoundNodeWavePlayer_70 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.27:572][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Orchestral_Horror_AREA_INTRO_2_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.27:945][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.27:956][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Orchestral_Horror_AREA_INTRO_3_Wav.Orchestral_Horror_AREA_INTRO_3_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Orchestral_Horror_AREA_INTRO_3_Wav.Orchestral_Horror_AREA_INTRO_3_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Orchestral_Horror_AREA_INTRO_3_Cue.Orchestral_Horror_AREA_INTRO_3_Cue:SoundNodeWavePlayer_71 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.27:956][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Orchestral_Horror_AREA_INTRO_3_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.28:294][ 78]LogSlate: Window 'Message' being destroyed
+[2020.12.10-04.28.28:306][ 78]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/Complete_Horror/Content/Short/Reverse_Piano_AREA_INTRO_Wav.Reverse_Piano_AREA_INTRO_Wav is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/Complete_Horror/Content/Short/Reverse_Piano_AREA_INTRO_Wav.Reverse_Piano_AREA_INTRO_Wav:
+   SoundNodeWavePlayer /Game/Complete_Horror/Cues/Short/Reverse_Piano_AREA_INTRO_Cue.Reverse_Piano_AREA_INTRO_Cue:SoundNodeWavePlayer_80 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2020.12.10-04.28.28:306][ 78]LogObjectTools: Warning: ForceDeleteObject failed to delete Reverse_Piano_AREA_INTRO_Wav, this package is now potentially corrupt
+[2020.12.10-04.28.28:665][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.12.10-04.28.28:670][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.10-04.28.28:672][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.10-04.28.28:675][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:677][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:680][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:682][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:685][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:687][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:690][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:693][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:696][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.12.10-04.28.28:698][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:701][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:703][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:706][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.10-04.28.28:708][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:712][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:715][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:718][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:720][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:723][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:725][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.10-04.28.28:728][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.12.10-04.28.28:730][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:733][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:735][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:738][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.12.10-04.28.28:741][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:743][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:746][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:748][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:751][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:753][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.10-04.28.28:756][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:758][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:761][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:763][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:766][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:768][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:771][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:774][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:776][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:779][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:781][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:784][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:786][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:789][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:791][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:794][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:796][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:799][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:801][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:804][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:806][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:809][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:811][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.10-04.28.28:814][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.10-04.28.28:816][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.10-04.28.28:819][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:821][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:824][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:826][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:828][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:831][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:834][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:836][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:839][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.10-04.28.28:841][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:844][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:846][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.10-04.28.28:849][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:851][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.10-04.28.28:854][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.10-04.28.28:856][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:859][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:862][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:864][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:867][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:870][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:872][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:875][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.12.10-04.28.28:877][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:880][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:882][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.10-04.28.28:885][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:888][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.10-04.28.28:890][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:893][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.10-04.28.28:895][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:898][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.12.10-04.28.28:900][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:903][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.12.10-04.28.28:905][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:908][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:912][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:914][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:917][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:919][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:922][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:925][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:927][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.28:930][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.12.10-04.28.28:932][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:935][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.10-04.28.28:938][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.10-04.28.28:940][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.10-04.28.28:943][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.10-04.28.28:946][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.10-04.28.28:948][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.10-04.28.29:672][ 78]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.10-04.28.30:105][ 78]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.432 s
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: 
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3142]
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: 
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: 					from the file system manually: 
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Metal_Ambience_DEEP_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Metal_Ambience_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Distorted_Ambience_SIMPLE_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Danger/Enemy_Territory__SYNTH_AMBIENCE_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Danger/Enemy_Territory_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Danger/Rising_Danger_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Danger/Drum_Danger_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Creepy_Ambience_MINIMAL_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Creepy_Ambience_MUSICAL_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Demonic_Ambience_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Demonic_Ambience_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Distorted_Ambience_DETAILED_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Mystery_Ambience_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Mystery_Ambience_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Ominous_Ambience_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Orchestral_Ambience_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Pulsing_Ambience_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Pulsing_Ambience_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Reverse_Ambience_LOOP_NO_BED_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Reverse_Ambience_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Shimmering_Horror_Ambience_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Sinister_Ambience_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Surreal_Darkness_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Ambiences/Synth_Ambience_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Danger/Relentless_Danger_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Danger/Slow_Danger_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Danger/Slow_Danger_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Choir_Ambience_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Choir_Ambience_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Creepy_Music_Box_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Creepy_Music_Box_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_Minimal_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_Minimal_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Loneliness_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Lonely_House_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Lonely_House_VERSE_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Lonely_House_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Short_Mystery_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Very_Sparse_Piano_LOOP_NO_BED_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Very_Sparse_Piano_LOOP_Wav
+[2020.12.10-04.28.30:105][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Very_Sparse_Piano_Wav
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_DIEGETIC_NO_FX_Wav
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_MINIMAL_LOOP_Wav
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_MINIMAL_Wav
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_SIMPLE_LOOP_NO_REVERB_Wav
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Ambience/Musical/Music_Box_Edits/Music_Box_SIMPLE_LOOP_Wav
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Effects/Dark_Empty_LOOP_Wav
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: /Game/Complete_Horror/Content/Effects/Draughty_House_Loop_Wav
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: /Game/Complete_Horror
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: Stack: 
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcb7f941d8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcb7838a29 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcb6f93e89 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcb726f97e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcb7266e57 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb8585fe UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb87077e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb6b46be UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb737f54 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb720367 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb713642 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcf943bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcf9429197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcf943e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcf9424310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffd359f5c1d USER32.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffd359f5612 USER32.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcf943f7a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb742274 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb6dd486 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcb72fbe1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcb782c2e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcacd96dd8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffc918d7099 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffc918d729e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffc918c7a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcad600313 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcad5f99f2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcad677b22 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcad5fcbb7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb8585fe UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb87077e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb6b46be UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb737f54 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb720367 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcdb713642 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcf943bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcf9429197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcf943e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcf9424310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffd359f5c1d USER32.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffd359f5612 USER32.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffcf943f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ff62e3087e7 UE4Editor.exe!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ff62e32113c UE4Editor.exe!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ff62e32121a UE4Editor.exe!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ff62e33527d UE4Editor.exe!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ff62e337faa UE4Editor.exe!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffd354a7c24 KERNEL32.DLL!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: [Callstack] 0x00007ffd361ad4d1 ntdll.dll!UnknownFunction []
+[2020.12.10-04.28.30:106][ 78]LogOutputDevice: Error: 
